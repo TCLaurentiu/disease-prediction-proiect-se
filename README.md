@@ -1,0 +1,18 @@
+Descrieri fisiere si foldere:
+- **frontend** contine codul frontendului
+- **dataset_exploration.ipynb** - cod pentru aflarea distributiei bolilor (cate exemple pentru fiecare boala exista in setul de date) si simptomele ce apar cel mai des pentru fiecare boala
+- **dataset_preparation.ipynb** - converteste setul de date initial in formatul corespunzator Pytorch, transformandu-l in tensori, si salvandu-i in formatul .pt
+- **model.ipynb** - antrenarea modelului
+- **model.pt** - modelul in formatul Pytorch - practic valorile parametrilor
+- **model.onnx** - modelul in format onnx, pentru utilizarea in browser
+- **repair.ipynb** si **dataset_prep_after_repair.ipynb** - in conversia setului de date am facut cateva erori, in aceste notebook-uri le corectam
+- **sympthoms.md** - cateva simptome ce corespund unora dintre boli
+- **release_conditions.json** si **release_evidences.json** - in setul de date original, simptomele si bolile sunt codificate. Aceste fisiere explica acele coduri
+- folderul **clean dataset** contine fisierele diseases.json si evidences.json care fac acelasi lucru ca fisierele originale, dar modificate pentru a fi mai usor de utilizat. Tot aici ar fi prezent setul de date in formatul .pt (formatul utilizat de pytorch), dar acestea nu sunt incluse in repo deoarece sunt fisiere foarte mari (numerele din pytorch fiind salvate in formatul float32, necesar antrenarii)
+- **onnx.ipynb** - realizeaza conversia in formatul onnx
+- **inference.ipynb** - realizeaza inferenta folosind modelul .pt, in Python
+- **frontend/diseases.json** si **frontend/evidences.json** sunt aceleasi fisiere de mai jos. Se repeta pentru ca frontendul a fost facut de un alt membru al echipei, pe alt calculator
+- **form.js** - codul pentru selectorul de simptome (codul general, este adaptat mai tarziu in script.js pentru simptome)
+- **index.html** - codul html aferent frontendului
+- **script.js** - functionalitatea propriu-zisa a frontendului
+- **style.css** - design-ul frontendului
