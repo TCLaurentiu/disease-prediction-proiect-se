@@ -1,0 +1,6632 @@
+{
+  "E_91": {
+    "default": 0,
+    "description": "Do you have a fever (either felt or measured with a thermometer)?",
+    "index": 0,
+    "type": "binary",
+    "short": "Fever"
+  },
+  "E_55%V_123": {
+    "index": 1,
+    "default_value": 1,
+    "description": "Do you feel pain somewhere? nowhere",
+    "type": "multiple",
+    "short": "No pain"
+  },
+  "E_55%V_14": {
+    "index": 2,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac wing(R)",
+    "type": "multiple",
+    "short": "Right iliac wing pain"
+  },
+  "E_55%V_15": {
+    "index": 3,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac wing(L)",
+    "type": "multiple",
+    "short": "Left iliac wing pain"
+  },
+  "E_55%V_16": {
+    "index": 4,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? groin(R)",
+    "type": "multiple",
+    "short": "Right groin pain"
+  },
+  "E_55%V_17": {
+    "index": 5,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? groin(L)",
+    "type": "multiple",
+    "short": "Left groin pain"
+  },
+  "E_55%V_19": {
+    "index": 6,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? axilla(L)",
+    "type": "multiple",
+    "short": "Left axilla pain"
+  },
+  "E_55%V_18": {
+    "index": 7,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? axilla(R)",
+    "type": "multiple",
+    "short": "Right axilla pain"
+  },
+  "E_55%V_20": {
+    "index": 8,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? tonsil(R)",
+    "type": "multiple",
+    "short": "Right tonsil pain"
+  },
+  "E_55%V_21": {
+    "index": 9,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? tonsil(L)",
+    "type": "multiple",
+    "short": "Left tonsil pain"
+  },
+  "E_55%V_22": {
+    "index": 10,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? anus",
+    "type": "multiple",
+    "short": "Anus pain"
+  },
+  "E_55%V_26": {
+    "index": 11,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? back of the neck",
+    "type": "multiple",
+    "short": "Back of the neck pain"
+  },
+  "E_55%V_25": {
+    "index": 12,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? back of head",
+    "type": "multiple",
+    "short": "Back of the head pain"
+  },
+  "E_55%V_30": {
+    "index": 13,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? biceps(R)",
+    "type": "multiple",
+    "short": "Right biceps pain"
+  },
+  "E_55%V_31": {
+    "index": 14,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? biceps(L)",
+    "type": "multiple",
+    "short": "Left biceps pain"
+  },
+  "E_55%V_32": {
+    "index": 15,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? mouth",
+    "type": "multiple",
+    "short": "Mouth pain"
+  },
+  "E_55%V_33": {
+    "index": 16,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thyroid cartilage",
+    "type": "multiple",
+    "short": "Thyroid cartilage pain"
+  },
+  "E_55%V_34": {
+    "index": 17,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ankle(R)",
+    "type": "multiple",
+    "short": "Right ankle pain"
+  },
+  "E_55%V_35": {
+    "index": 18,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ankle(L)",
+    "type": "multiple",
+    "short": "Left ankle pain"
+  },
+  "E_55%V_36": {
+    "index": 19,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? clitoris",
+    "type": "multiple",
+    "short": "Clitoris pain"
+  },
+  "E_55%V_37": {
+    "index": 20,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? coccyx",
+    "type": "multiple",
+    "short": "Coccyx pain"
+  },
+  "E_55%V_38": {
+    "index": 21,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? cervical spine",
+    "type": "multiple",
+    "short": "Cervical spine pain"
+  },
+  "E_55%V_39": {
+    "index": 22,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thoracic spine",
+    "type": "multiple",
+    "short": "Thoracic spine pain"
+  },
+  "E_55%V_40": {
+    "index": 23,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lumbar spine",
+    "type": "multiple",
+    "short": "Lumbar spine pain"
+  },
+  "E_55%V_41": {
+    "index": 24,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? commissure(R)",
+    "type": "multiple",
+    "short": "Right commisure pain"
+  },
+  "E_55%V_42": {
+    "index": 25,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? commissure(L)",
+    "type": "multiple",
+    "short": "Left commisure pain"
+  },
+  "E_55%V_49": {
+    "index": 26,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac crest(R)",
+    "type": "multiple",
+    "short": "Right iliac crest pain"
+  },
+  "E_55%V_50": {
+    "index": 27,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac crest(L)",
+    "type": "multiple",
+    "short": "Left iliac crest pain"
+  },
+  "E_55%V_51": {
+    "index": 28,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thigh(R)",
+    "type": "multiple",
+    "short": "Right thigh"
+  },
+  "E_55%V_52": {
+    "index": 29,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thigh(L)",
+    "type": "multiple",
+    "short": "Left thigh pain"
+  },
+  "E_55%V_57": {
+    "index": 30,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lower teeth(R)",
+    "type": "multiple",
+    "short": "Right lower teeth pain"
+  },
+  "E_55%V_58": {
+    "index": 31,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lower teeth(L)",
+    "type": "multiple",
+    "short": "Left lower teeth pain"
+  },
+  "E_55%V_59": {
+    "index": 32,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? upper teeth(R)",
+    "type": "multiple",
+    "short": "Right upper teeth pain"
+  },
+  "E_55%V_60": {
+    "index": 33,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? upper teeth(L)",
+    "type": "multiple",
+    "short": "Left upper teeth pain"
+  },
+  "E_55%V_67": {
+    "index": 34,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (index)(R)",
+    "type": "multiple",
+    "short": "Right index finger pain"
+  },
+  "E_55%V_68": {
+    "index": 35,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (index)(L)",
+    "type": "multiple",
+    "short": "Left index finger pain"
+  },
+  "E_55%V_69": {
+    "index": 36,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (middle)(R)",
+    "type": "multiple",
+    "short": "Right middle finger pain"
+  },
+  "E_55%V_70": {
+    "index": 37,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (middle)(L)",
+    "type": "multiple",
+    "short": "Left middle finger pain"
+  },
+  "E_55%V_63": {
+    "index": 38,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (ring finger)(R)",
+    "type": "multiple",
+    "short": "Right ring finger pain"
+  },
+  "E_55%V_64": {
+    "index": 39,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (ring finger)(L)",
+    "type": "multiple",
+    "short": "Left ring finger pain"
+  },
+  "E_55%V_65": {
+    "index": 40,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (little finger)(R)",
+    "type": "multiple",
+    "short": "Right little finger pain"
+  },
+  "E_55%V_66": {
+    "index": 41,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? finger (little finger)(L)",
+    "type": "multiple",
+    "short": "Left little finger pain"
+  },
+  "E_55%V_62": {
+    "index": 42,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? top of the head",
+    "type": "multiple",
+    "short": "Top of the head pain"
+  },
+  "E_55%V_194": {
+    "index": 43,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? shoulder(R)",
+    "type": "multiple",
+    "short": "Right shoulder pain"
+  },
+  "E_55%V_195": {
+    "index": 44,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? shoulder(L)",
+    "type": "multiple",
+    "short": "Left shoulder pain"
+  },
+  "E_55%V_197": {
+    "index": 45,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? epigastric",
+    "type": "multiple",
+    "short": "Epigastric pain"
+  },
+  "E_55%V_27": {
+    "index": 46,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? forearm(R)",
+    "type": "multiple",
+    "short": "Right forearm pain"
+  },
+  "E_55%V_28": {
+    "index": 47,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? forearm(L)",
+    "type": "multiple",
+    "short": "Left forearm pain"
+  },
+  "E_55%V_76": {
+    "index": 48,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the hand(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right hand pain"
+  },
+  "E_55%V_77": {
+    "index": 49,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the hand(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left hand pain"
+  },
+  "E_55%V_72": {
+    "index": 50,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the foot(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right foot pain"
+  },
+  "E_55%V_73": {
+    "index": 51,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the foot(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left foot pain"
+  },
+  "E_55%V_74": {
+    "index": 52,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the wrist(R)",
+    "type": "multiple",
+    "short": "Dorsal ascept of the right wrist pain"
+  },
+  "E_55%V_75": {
+    "index": 53,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? dorsal aspect of the wrist(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left wrist pain"
+  },
+  "E_55%V_149": {
+    "index": 54,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? sole(R)",
+    "type": "multiple",
+    "short": "Right sole pain"
+  },
+  "E_55%V_150": {
+    "index": 55,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? sole(L)",
+    "type": "multiple",
+    "short": "Left sole pain"
+  },
+  "E_55%V_80": {
+    "index": 56,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palmar face of the wrist(R)",
+    "type": "multiple",
+    "short": "Palmar face of the right wrist pain"
+  },
+  "E_55%V_81": {
+    "index": 57,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palmar face of the wrist(L)",
+    "type": "multiple",
+    "short": "Palmar face of the left wrist pain"
+  },
+  "E_55%V_43": {
+    "index": 58,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lateral side of the foot(R)",
+    "type": "multiple",
+    "short": "Lateral side of the right foot pain"
+  },
+  "E_55%V_44": {
+    "index": 59,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lateral side of the foot(L)",
+    "type": "multiple",
+    "short": "Lateral side of the left foot pain"
+  },
+  "E_55%V_82": {
+    "index": 60,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? buttock(R)",
+    "type": "multiple",
+    "short": "Right buttock pain"
+  },
+  "E_55%V_83": {
+    "index": 61,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? buttock(L)",
+    "type": "multiple",
+    "short": "Left buttock pain"
+  },
+  "E_55%V_84": {
+    "index": 62,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? flank(R)",
+    "type": "multiple",
+    "short": "Right flank pain"
+  },
+  "E_55%V_85": {
+    "index": 63,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? flank(L)",
+    "type": "multiple",
+    "short": "Left flank pain"
+  },
+  "E_55%V_78": {
+    "index": 64,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palmar side of the forearm(R)",
+    "type": "multiple",
+    "short": "Palmar side of the right forearm pain"
+  },
+  "E_55%V_79": {
+    "index": 65,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palmar side of the forearm(L)",
+    "type": "multiple",
+    "short": "Palmar side of the left forearm pain"
+  },
+  "E_55%V_87": {
+    "index": 66,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac fossa(R)",
+    "type": "multiple",
+    "short": "Right iliac fossa pain"
+  },
+  "E_55%V_88": {
+    "index": 67,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? iliac fossa(L)",
+    "type": "multiple",
+    "short": "Left iliac fossa pain"
+  },
+  "E_55%V_89": {
+    "index": 68,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? forehead",
+    "type": "multiple",
+    "short": "Forehead pain"
+  },
+  "E_55%V_92": {
+    "index": 69,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? knee(R)",
+    "type": "multiple",
+    "short": "Right knee pain"
+  },
+  "E_55%V_93": {
+    "index": 70,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? knee(L)",
+    "type": "multiple",
+    "short": "Left knee pain"
+  },
+  "E_55%V_90": {
+    "index": 71,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lower gum",
+    "type": "multiple",
+    "short": "Lower gum pain"
+  },
+  "E_55%V_47": {
+    "index": 72,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? popliteal fossa(R)",
+    "type": "multiple",
+    "short": "Right popliteal fossa pain"
+  },
+  "E_55%V_48": {
+    "index": 73,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? popliteal fossa(L)",
+    "type": "multiple",
+    "short": "Left popliteal fossa pain"
+  },
+  "E_55%V_91": {
+    "index": 74,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? upper gum",
+    "type": "multiple",
+    "short": "Upper gum pai"
+  },
+  "E_55%V_94": {
+    "index": 75,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? glans",
+    "type": "multiple",
+    "short": "Glans pain"
+  },
+  "E_55%V_95": {
+    "index": 76,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? labia majora(R)",
+    "type": "multiple",
+    "short": "Right labia majora pain"
+  },
+  "E_55%V_96": {
+    "index": 77,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? labia majora(L)",
+    "type": "multiple",
+    "short": "Left labia majora pain"
+  },
+  "E_55%V_97": {
+    "index": 78,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? big toe(R)",
+    "type": "multiple",
+    "short": "Right big toe pain"
+  },
+  "E_55%V_98": {
+    "index": 79,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? big toe(L)",
+    "type": "multiple",
+    "short": "Left big toe pain"
+  },
+  "E_55%V_99": {
+    "index": 80,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? hip(R)",
+    "type": "multiple",
+    "short": "Right hip pain"
+  },
+  "E_55%V_100": {
+    "index": 81,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? hip(L)",
+    "type": "multiple",
+    "short": "Left hip pain"
+  },
+  "E_55%V_102": {
+    "index": 82,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? hymen",
+    "type": "multiple",
+    "short": "Hymen pain"
+  },
+  "E_55%V_103": {
+    "index": 83,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? hypochondrium(R)",
+    "type": "multiple",
+    "short": "Right hypochondrium pain"
+  },
+  "E_55%V_104": {
+    "index": 84,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? hypochondrium(L)",
+    "type": "multiple",
+    "short": "Left hypochondrium pain"
+  },
+  "E_55%V_105": {
+    "index": 85,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ischio jambier(R)",
+    "type": "multiple",
+    "short": "Right ischio jambier pain"
+  },
+  "E_55%V_106": {
+    "index": 86,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ischio jambier(L)",
+    "type": "multiple",
+    "short": "Left ischio jambier pain"
+  },
+  "E_55%V_108": {
+    "index": 87,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? cheek(R)",
+    "type": "multiple",
+    "short": "Right cheek pain"
+  },
+  "E_55%V_109": {
+    "index": 88,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? cheek(L)",
+    "type": "multiple",
+    "short": "Left cheek pain"
+  },
+  "E_55%V_110": {
+    "index": 89,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? internal cheek(R)",
+    "type": "multiple",
+    "short": "Right internal cheek pain"
+  },
+  "E_55%V_111": {
+    "index": 90,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? internal cheek(L)",
+    "type": "multiple",
+    "short": "Left internal cheek pain"
+  },
+  "E_55%V_53": {
+    "index": 91,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? side of the neck(R)",
+    "type": "multiple",
+    "short": "Right side of the neck pain"
+  },
+  "E_55%V_54": {
+    "index": 92,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? side of the neck(L)",
+    "type": "multiple",
+    "short": "Left side of the neck pain"
+  },
+  "E_55%V_55": {
+    "index": 93,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? side of the chest(R)",
+    "type": "multiple",
+    "short": "Rigth side of the chest pain"
+  },
+  "E_55%V_56": {
+    "index": 94,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? side of the chest(L)",
+    "type": "multiple",
+    "short": "Left side of the chest pain"
+  },
+  "E_55%V_116": {
+    "index": 95,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? bottom lip(R)",
+    "type": "multiple",
+    "short": "Right bottom lip pain"
+  },
+  "E_55%V_117": {
+    "index": 96,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? upper lip(R)",
+    "type": "multiple",
+    "short": "Right upper lip pain"
+  },
+  "E_55%V_113": {
+    "index": 97,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? renal fossa(R)",
+    "type": "multiple",
+    "short": "Right renal fossa pain"
+  },
+  "E_55%V_114": {
+    "index": 98,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? renal fossa(L)",
+    "type": "multiple",
+    "short": "Left renal fossa pain"
+  },
+  "E_55%V_115": {
+    "index": 99,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? uvula",
+    "type": "multiple",
+    "short": "Uvula pain"
+  },
+  "E_55%V_121": {
+    "index": 100,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? jaw",
+    "type": "multiple",
+    "short": "Jaw pain"
+  },
+  "E_55%V_118": {
+    "index": 101,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? chin",
+    "type": "multiple",
+    "short": "Chin pain"
+  },
+  "E_55%V_29": {
+    "index": 102,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? lower chest",
+    "type": "multiple",
+    "short": "Lower chest pain"
+  },
+  "E_55%V_119": {
+    "index": 103,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? calf(R)",
+    "type": "multiple",
+    "short": "Right calf pain"
+  },
+  "E_55%V_120": {
+    "index": 104,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? calf(L)",
+    "type": "multiple",
+    "short": "Left calf pain"
+  },
+  "E_55%V_122": {
+    "index": 105,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? nose",
+    "type": "multiple",
+    "short": "Nose pain"
+  },
+  "E_55%V_124": {
+    "index": 106,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? occiput",
+    "type": "multiple",
+    "short": "Occiput pain"
+  },
+  "E_55%V_125": {
+    "index": 107,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? eye(R)",
+    "type": "multiple",
+    "short": "Right eye pain"
+  },
+  "E_55%V_126": {
+    "index": 108,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? eye(L)",
+    "type": "multiple",
+    "short": "Left eye pain"
+  },
+  "E_55%V_127": {
+    "index": 109,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? scapula(R)",
+    "type": "multiple",
+    "short": "Right scapula pain"
+  },
+  "E_55%V_128": {
+    "index": 110,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? scapula(L)",
+    "type": "multiple",
+    "short": "Left scapula pain"
+  },
+  "E_55%V_129": {
+    "index": 111,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ear(R)",
+    "type": "multiple",
+    "short": "Right ear pain"
+  },
+  "E_55%V_130": {
+    "index": 112,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? ear(L)",
+    "type": "multiple",
+    "short": "Left ear pain"
+  },
+  "E_55%V_131": {
+    "index": 113,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (1)(R)",
+    "type": "multiple",
+    "short": "Right first toe pain"
+  },
+  "E_55%V_132": {
+    "index": 114,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (1)(L)",
+    "type": "multiple",
+    "short": "Left first toe pain"
+  },
+  "E_55%V_133": {
+    "index": 115,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (2)(R)",
+    "type": "multiple",
+    "short": "Right second toe pain"
+  },
+  "E_55%V_134": {
+    "index": 116,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (2)(L)",
+    "type": "multiple",
+    "short": "Left second toe pain"
+  },
+  "E_55%V_135": {
+    "index": 117,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (3)(R)",
+    "type": "multiple",
+    "short": "Right third toe pain"
+  },
+  "E_55%V_136": {
+    "index": 118,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? toe (3)(L)",
+    "type": "multiple",
+    "short": "Left third toe pain"
+  },
+  "E_55%V_144": {
+    "index": 119,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? little toe (4)(R)",
+    "type": "multiple",
+    "short": "Right fourth toe pain"
+  },
+  "E_55%V_145": {
+    "index": 120,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? little toe (4)(L)",
+    "type": "multiple",
+    "short": "Left fourth toe pain"
+  },
+  "E_55%V_45": {
+    "index": 121,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? elbow(R)",
+    "type": "multiple",
+    "short": "Right elbow pain"
+  },
+  "E_55%V_46": {
+    "index": 122,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? elbow(L)",
+    "type": "multiple",
+    "short": "Left elbow pain"
+  },
+  "E_55%V_137": {
+    "index": 123,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palace",
+    "type": "multiple",
+    "short": "Palace pain"
+  },
+  "E_55%V_170": {
+    "index": 124,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? posterior chest wall(R)",
+    "type": "multiple",
+    "short": "Right posterior chest wall pain"
+  },
+  "E_55%V_171": {
+    "index": 125,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? posterior chest wall(L)",
+    "type": "multiple",
+    "short": "Left posterior chest wall pain"
+  },
+  "E_55%V_139": {
+    "index": 126,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vaginal wall",
+    "type": "multiple",
+    "short": "Vaginal wall pain"
+  },
+  "E_55%V_140": {
+    "index": 127,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vaginal wall(R)",
+    "type": "multiple",
+    "short": "Right vaginal wall pain"
+  },
+  "E_55%V_141": {
+    "index": 128,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vaginal wall(L)",
+    "type": "multiple",
+    "short": "Left vaginal wall pain"
+  },
+  "E_55%V_142": {
+    "index": 129,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palm(R)",
+    "type": "multiple",
+    "short": "Right palm pain"
+  },
+  "E_55%V_143": {
+    "index": 130,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? palm(L)",
+    "type": "multiple",
+    "short": "Left palm pain"
+  },
+  "E_55%V_155": {
+    "index": 131,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? penis",
+    "type": "multiple",
+    "short": "Penis pain"
+  },
+  "E_55%V_187": {
+    "index": 132,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? belly",
+    "type": "multiple",
+    "short": "Belly pain"
+  },
+  "E_55%V_146": {
+    "index": 133,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? labia minora(R)",
+    "type": "multiple",
+    "short": "Right labia minora pain"
+  },
+  "E_55%V_147": {
+    "index": 134,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? labia minora(L)",
+    "type": "multiple",
+    "short": "Left labia minora pain"
+  },
+  "E_55%V_148": {
+    "index": 135,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? pharynx",
+    "type": "multiple",
+    "short": "Pharynx pain"
+  },
+  "E_55%V_23": {
+    "index": 136,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? posterior aspect of the ankle(R)",
+    "type": "multiple",
+    "short": "Posteriod aspect of the right ankle pain"
+  },
+  "E_55%V_24": {
+    "index": 137,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? posterior aspect of the ankle(L)",
+    "type": "multiple",
+    "short": "Posterior aspect of the left ankle pain"
+  },
+  "E_55%V_151": {
+    "index": 138,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thumb(R)",
+    "type": "multiple",
+    "short": "Right thumb pain"
+  },
+  "E_55%V_152": {
+    "index": 139,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? thumb(L)",
+    "type": "multiple",
+    "short": "Left thumb pain"
+  },
+  "E_55%V_158": {
+    "index": 140,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? scrotum",
+    "type": "multiple",
+    "short": "Scrotum pain"
+  },
+  "E_55%V_159": {
+    "index": 141,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? breast(R)",
+    "type": "multiple",
+    "short": "Right breast pain"
+  },
+  "E_55%V_160": {
+    "index": 142,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? breast(L)",
+    "type": "multiple",
+    "short": "Left breast pain"
+  },
+  "E_55%V_162": {
+    "index": 143,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? under the tongue",
+    "type": "multiple",
+    "short": "Under the tongue pain"
+  },
+  "E_55%V_163": {
+    "index": 144,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? under the jaw",
+    "type": "multiple",
+    "short": "Under the jaw pain"
+  },
+  "E_55%V_101": {
+    "index": 145,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? upper chest",
+    "type": "multiple",
+    "short": "Upper chest pain"
+  },
+  "E_55%V_61": {
+    "index": 146,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? above the tongue",
+    "type": "multiple",
+    "short": "Above the tongue pain"
+  },
+  "E_55%V_153": {
+    "index": 147,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? pubis",
+    "type": "multiple",
+    "short": "Pubis pain"
+  },
+  "E_55%V_164": {
+    "index": 148,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? heel(R)",
+    "type": "multiple",
+    "short": "Right heel pain"
+  },
+  "E_55%V_165": {
+    "index": 149,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? heel(L)",
+    "type": "multiple",
+    "short": "Left heel pain"
+  },
+  "E_55%V_166": {
+    "index": 150,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? temple(R)",
+    "type": "multiple",
+    "short": "Right temple pain"
+  },
+  "E_55%V_167": {
+    "index": 151,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? temple(L)",
+    "type": "multiple",
+    "short": "Left temple pain"
+  },
+  "E_55%V_168": {
+    "index": 152,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? testicle(R)",
+    "type": "multiple",
+    "short": "Right testicle pain"
+  },
+  "E_55%V_169": {
+    "index": 153,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? testicle(L)",
+    "type": "multiple",
+    "short": "Left testicle pain"
+  },
+  "E_55%V_172": {
+    "index": 154,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? tibia(R)",
+    "type": "multiple",
+    "short": "Right tibia pain"
+  },
+  "E_55%V_173": {
+    "index": 155,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? tibia(L)",
+    "type": "multiple",
+    "short": "Left tibia pain"
+  },
+  "E_55%V_175": {
+    "index": 156,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? trapezius(R)",
+    "type": "multiple",
+    "short": "Right trapezius pain"
+  },
+  "E_55%V_176": {
+    "index": 157,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? trapezius(L)",
+    "type": "multiple",
+    "short": "Left trapeziua pain"
+  },
+  "E_55%V_174": {
+    "index": 158,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? trachea",
+    "type": "multiple",
+    "short": "Trachea pain"
+  },
+  "E_55%V_177": {
+    "index": 159,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? triceps(R)",
+    "type": "multiple",
+    "short": "Right triceps pain"
+  },
+  "E_55%V_178": {
+    "index": 160,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? triceps(L)",
+    "type": "multiple",
+    "short": "Left triceps pain"
+  },
+  "E_55%V_185": {
+    "index": 161,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? urethra",
+    "type": "multiple",
+    "short": "Urethra pain"
+  },
+  "E_55%V_186": {
+    "index": 162,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vagina",
+    "type": "multiple",
+    "short": "Vagina pain"
+  },
+  "E_55%V_188": {
+    "index": 163,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vermilion(R)",
+    "type": "multiple",
+    "short": "Right vermilion pain"
+  },
+  "E_55%V_189": {
+    "index": 164,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vermilion(L)",
+    "type": "multiple",
+    "short": "Left vermilion pain"
+  },
+  "E_55%V_190": {
+    "index": 165,
+    "default_value": 0,
+    "description": "Do you feel pain somewhere? vulval vestibule",
+    "type": "multiple",
+    "short": "Vulval vestibule pain"
+  },
+  "E_53": {
+    "default": 0,
+    "description": "Do you have pain somewhere, related to your reason for consulting?",
+    "index": 166,
+    "type": "binary",
+    "short": "Pain related to this consult"
+  },
+  "E_57%V_123": {
+    "index": 167,
+    "default_value": 1,
+    "description": "Does the pain radiate to another location? nowhere",
+    "type": "multiple",
+    "short": "Pain doesn't radiate"
+  },
+  "E_57%V_14": {
+    "index": 168,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac wing(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right iliac wing"
+  },
+  "E_57%V_15": {
+    "index": 169,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac wing(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left iliac wing"
+  },
+  "E_57%V_16": {
+    "index": 170,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? groin(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right groin"
+  },
+  "E_57%V_17": {
+    "index": 171,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? groin(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left groin"
+  },
+  "E_57%V_19": {
+    "index": 172,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? axilla(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left axilla"
+  },
+  "E_57%V_18": {
+    "index": 173,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? axilla(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right axilla"
+  },
+  "E_57%V_20": {
+    "index": 174,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? tonsil(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right tonsil"
+  },
+  "E_57%V_21": {
+    "index": 175,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? tonsil(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left tonsil"
+  },
+  "E_57%V_22": {
+    "index": 176,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? anus",
+    "type": "multiple",
+    "short": "Pain radiates to anus"
+  },
+  "E_57%V_26": {
+    "index": 177,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? back of the neck",
+    "type": "multiple",
+    "short": "Pain radiates to back of the neck"
+  },
+  "E_57%V_25": {
+    "index": 178,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? back of head",
+    "type": "multiple",
+    "short": "Pain radiates to back of head"
+  },
+  "E_57%V_30": {
+    "index": 179,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? biceps(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right biceps"
+  },
+  "E_57%V_31": {
+    "index": 180,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? biceps(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left biceps"
+  },
+  "E_57%V_32": {
+    "index": 181,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? mouth",
+    "type": "multiple",
+    "short": "Pain radiates to mouth"
+  },
+  "E_57%V_33": {
+    "index": 182,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thyroid cartilage",
+    "type": "multiple",
+    "short": "Pain radiates to thyroid cartilage"
+  },
+  "E_57%V_34": {
+    "index": 183,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ankle(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right ankle"
+  },
+  "E_57%V_35": {
+    "index": 184,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ankle(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left ankle"
+  },
+  "E_57%V_36": {
+    "index": 185,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? clitoris",
+    "type": "multiple",
+    "short": "Pain radiates to clitoris"
+  },
+  "E_57%V_37": {
+    "index": 186,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? coccyx",
+    "type": "multiple",
+    "short": "Pain radiates to coccyx"
+  },
+  "E_57%V_38": {
+    "index": 187,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? cervical spine",
+    "type": "multiple",
+    "short": "Pain radiates to cervical spine"
+  },
+  "E_57%V_39": {
+    "index": 188,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thoracic spine",
+    "type": "multiple",
+    "short": "Pain radiates to thoracic spine"
+  },
+  "E_57%V_40": {
+    "index": 189,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lumbar spine",
+    "type": "multiple",
+    "short": "Pain radiates to lumbar spine"
+  },
+  "E_57%V_41": {
+    "index": 190,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? commissure(R)",
+    "type": "multiple",
+    "short": "Pain radiatest to right commisure"
+  },
+  "E_57%V_42": {
+    "index": 191,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? commissure(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left commisure"
+  },
+  "E_57%V_49": {
+    "index": 192,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac crest(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right iliac crest"
+  },
+  "E_57%V_50": {
+    "index": 193,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac crest(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left iliac crest"
+  },
+  "E_57%V_51": {
+    "index": 194,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thigh(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right thigh"
+  },
+  "E_57%V_52": {
+    "index": 195,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thigh(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left thigh"
+  },
+  "E_57%V_57": {
+    "index": 196,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lower teeth(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right lower teeth"
+  },
+  "E_57%V_58": {
+    "index": 197,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lower teeth(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left lower teeth"
+  },
+  "E_57%V_59": {
+    "index": 198,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? upper teeth(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right upper teeth"
+  },
+  "E_57%V_60": {
+    "index": 199,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? upper teeth(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left upper teeth"
+  },
+  "E_57%V_67": {
+    "index": 200,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (index)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right index finger"
+  },
+  "E_57%V_68": {
+    "index": 201,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (index)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left index finger"
+  },
+  "E_57%V_69": {
+    "index": 202,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (middle)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right middle finger"
+  },
+  "E_57%V_70": {
+    "index": 203,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (middle)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left middle finger"
+  },
+  "E_57%V_63": {
+    "index": 204,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (ring finger)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right ring finger"
+  },
+  "E_57%V_64": {
+    "index": 205,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (ring finger)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left ring finger"
+  },
+  "E_57%V_65": {
+    "index": 206,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (little finger)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right little finger"
+  },
+  "E_57%V_66": {
+    "index": 207,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? finger (little finger)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left little finger"
+  },
+  "E_57%V_62": {
+    "index": 208,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? top of the head",
+    "type": "multiple",
+    "short": "Pain radiates to top of head"
+  },
+  "E_57%V_194": {
+    "index": 209,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? shoulder(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right shoulder"
+  },
+  "E_57%V_195": {
+    "index": 210,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? shoulder(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left shoulder"
+  },
+  "E_57%V_197": {
+    "index": 211,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? epigastric",
+    "type": "multiple",
+    "short": "Pain radiates to epigastric"
+  },
+  "E_57%V_27": {
+    "index": 212,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? forearm(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right forearm"
+  },
+  "E_57%V_28": {
+    "index": 213,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? forearm(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left forearm"
+  },
+  "E_57%V_76": {
+    "index": 214,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the hand(R)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of right hand"
+  },
+  "E_57%V_77": {
+    "index": 215,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the hand(L)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of the left hand"
+  },
+  "E_57%V_72": {
+    "index": 216,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the foot(R)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of right foot"
+  },
+  "E_57%V_73": {
+    "index": 217,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the foot(L)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of left foot"
+  },
+  "E_57%V_74": {
+    "index": 218,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the wrist(R)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of right wrist"
+  },
+  "E_57%V_75": {
+    "index": 219,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? dorsal aspect of the wrist(L)",
+    "type": "multiple",
+    "short": "Pain radiates to dorsal aspect of left wrist"
+  },
+  "E_57%V_149": {
+    "index": 220,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? sole(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right sole"
+  },
+  "E_57%V_150": {
+    "index": 221,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? sole(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left sole"
+  },
+  "E_57%V_80": {
+    "index": 222,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palmar face of the wrist(R)",
+    "type": "multiple",
+    "short": "Pain radiates to palmar face of right wrist"
+  },
+  "E_57%V_81": {
+    "index": 223,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palmar face of the wrist(L)",
+    "type": "multiple",
+    "short": "Pain radiates to palmar face of left wrist"
+  },
+  "E_57%V_43": {
+    "index": 224,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lateral side of the foot(R)",
+    "type": "multiple",
+    "short": "Pain radiates to lateral side of right foot"
+  },
+  "E_57%V_44": {
+    "index": 225,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lateral side of the foot(L)",
+    "type": "multiple",
+    "short": "Pain radiates to lateral side of left foot"
+  },
+  "E_57%V_82": {
+    "index": 226,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? buttock(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right buttock"
+  },
+  "E_57%V_83": {
+    "index": 227,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? buttock(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left buttock"
+  },
+  "E_57%V_84": {
+    "index": 228,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? flank(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right flank"
+  },
+  "E_57%V_85": {
+    "index": 229,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? flank(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left flank"
+  },
+  "E_57%V_78": {
+    "index": 230,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palmar side of the forearm(R)",
+    "type": "multiple",
+    "short": "Pain radiates to palmar side of right forearm"
+  },
+  "E_57%V_79": {
+    "index": 231,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palmar side of the forearm(L)",
+    "type": "multiple",
+    "short": "Pain radiates to lpalmar side of left forearm"
+  },
+  "E_57%V_87": {
+    "index": 232,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac fossa(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right iliac fossa"
+  },
+  "E_57%V_88": {
+    "index": 233,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? iliac fossa(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left iliac fossa"
+  },
+  "E_57%V_89": {
+    "index": 234,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? forehead",
+    "type": "multiple",
+    "short": "Pain radiates to forehead"
+  },
+  "E_57%V_92": {
+    "index": 235,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? knee(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right knee"
+  },
+  "E_57%V_93": {
+    "index": 236,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? knee(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left knee"
+  },
+  "E_57%V_90": {
+    "index": 237,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lower gum",
+    "type": "multiple",
+    "short": "Pain radiates to lower gum"
+  },
+  "E_57%V_47": {
+    "index": 238,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? popliteal fossa(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right popliteal fossa"
+  },
+  "E_57%V_48": {
+    "index": 239,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? popliteal fossa(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left popliteal fossa"
+  },
+  "E_57%V_91": {
+    "index": 240,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? upper gum",
+    "type": "multiple",
+    "short": "Pain radiates to upper gum"
+  },
+  "E_57%V_94": {
+    "index": 241,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? glans",
+    "type": "multiple",
+    "short": "Pain radiates to glans"
+  },
+  "E_57%V_95": {
+    "index": 242,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? labia majora(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right labia majora"
+  },
+  "E_57%V_96": {
+    "index": 243,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? labia majora(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left labia majora"
+  },
+  "E_57%V_97": {
+    "index": 244,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? big toe(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right big toe"
+  },
+  "E_57%V_98": {
+    "index": 245,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? big toe(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left big toe"
+  },
+  "E_57%V_99": {
+    "index": 246,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? hip(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right hip"
+  },
+  "E_57%V_100": {
+    "index": 247,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? hip(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left hip"
+  },
+  "E_57%V_102": {
+    "index": 248,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? hymen",
+    "type": "multiple",
+    "short": "Pain radiates to hymen"
+  },
+  "E_57%V_103": {
+    "index": 249,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? hypochondrium(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right hypochondrium"
+  },
+  "E_57%V_104": {
+    "index": 250,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? hypochondrium(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left hypochondrium"
+  },
+  "E_57%V_105": {
+    "index": 251,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ischio jambier(R)",
+    "type": "multiple",
+    "short": "Pain radiates to ischio jambier"
+  },
+  "E_57%V_106": {
+    "index": 252,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ischio jambier(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left ischio jambier"
+  },
+  "E_57%V_108": {
+    "index": 253,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? cheek(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right cheek"
+  },
+  "E_57%V_109": {
+    "index": 254,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? cheek(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left cheek"
+  },
+  "E_57%V_110": {
+    "index": 255,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? internal cheek(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right internal cheek"
+  },
+  "E_57%V_111": {
+    "index": 256,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? internal cheek(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left internal cheek"
+  },
+  "E_57%V_53": {
+    "index": 257,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? side of the neck(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right side of neck"
+  },
+  "E_57%V_54": {
+    "index": 258,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? side of the neck(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left side of neck"
+  },
+  "E_57%V_55": {
+    "index": 259,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? side of the chest(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right side of chest"
+  },
+  "E_57%V_56": {
+    "index": 260,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? side of the chest(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left side of chest"
+  },
+  "E_57%V_116": {
+    "index": 261,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? bottom lip(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right bottom lip"
+  },
+  "E_57%V_117": {
+    "index": 262,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? upper lip(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right upper lip"
+  },
+  "E_57%V_113": {
+    "index": 263,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? renal fossa(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right renal fossa"
+  },
+  "E_57%V_114": {
+    "index": 264,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? renal fossa(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left renal fossa"
+  },
+  "E_57%V_115": {
+    "index": 265,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? uvula",
+    "type": "multiple",
+    "short": "Pain radiates to uvula"
+  },
+  "E_57%V_121": {
+    "index": 266,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? jaw",
+    "type": "multiple",
+    "short": "Pain radiates to jaw"
+  },
+  "E_57%V_118": {
+    "index": 267,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? chin",
+    "type": "multiple",
+    "short": "Pain radiates to chin"
+  },
+  "E_57%V_29": {
+    "index": 268,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? lower chest",
+    "type": "multiple",
+    "short": "Pain radiates to lower chest"
+  },
+  "E_57%V_119": {
+    "index": 269,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? calf(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right calf"
+  },
+  "E_57%V_120": {
+    "index": 270,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? calf(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left calf"
+  },
+  "E_57%V_122": {
+    "index": 271,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? nose",
+    "type": "multiple",
+    "short": "Pain radiates to nsoe"
+  },
+  "E_57%V_124": {
+    "index": 272,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? occiput",
+    "type": "multiple",
+    "short": "pain radiates to occiput"
+  },
+  "E_57%V_125": {
+    "index": 273,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? eye(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right eye"
+  },
+  "E_57%V_126": {
+    "index": 274,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? eye(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left eye"
+  },
+  "E_57%V_127": {
+    "index": 275,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? scapula(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right scapula"
+  },
+  "E_57%V_128": {
+    "index": 276,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? scapula(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left scapula"
+  },
+  "E_57%V_129": {
+    "index": 277,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ear(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right ear"
+  },
+  "E_57%V_130": {
+    "index": 278,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? ear(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left ear"
+  },
+  "E_57%V_131": {
+    "index": 279,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (1)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to first right toe"
+  },
+  "E_57%V_132": {
+    "index": 280,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (1)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to first left toe"
+  },
+  "E_57%V_133": {
+    "index": 281,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (2)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to second right toe"
+  },
+  "E_57%V_134": {
+    "index": 282,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (2)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to second left toe"
+  },
+  "E_57%V_135": {
+    "index": 283,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (3)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to third right toe"
+  },
+  "E_57%V_136": {
+    "index": 284,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? toe (3)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to third left toe"
+  },
+  "E_57%V_144": {
+    "index": 285,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? little toe (4)(R)",
+    "type": "multiple",
+    "short": "Pain radiates to fourth right toe"
+  },
+  "E_57%V_145": {
+    "index": 286,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? little toe (4)(L)",
+    "type": "multiple",
+    "short": "Pain radiates to fourth left toe"
+  },
+  "E_57%V_45": {
+    "index": 287,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? elbow(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right elbow"
+  },
+  "E_57%V_46": {
+    "index": 288,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? elbow(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left elbow"
+  },
+  "E_57%V_137": {
+    "index": 289,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palace",
+    "type": "multiple",
+    "short": "Pain radiates to palace"
+  },
+  "E_57%V_170": {
+    "index": 290,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? posterior chest wall(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right posterior chest wall"
+  },
+  "E_57%V_171": {
+    "index": 291,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? posterior chest wall(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left posterior chest wall"
+  },
+  "E_57%V_139": {
+    "index": 292,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vaginal wall",
+    "type": "multiple",
+    "short": "Pain radiates to vaginal wall"
+  },
+  "E_57%V_140": {
+    "index": 293,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vaginal wall(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right vaginal wall"
+  },
+  "E_57%V_141": {
+    "index": 294,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vaginal wall(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left vaginal wall"
+  },
+  "E_57%V_142": {
+    "index": 295,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palm(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right palm"
+  },
+  "E_57%V_143": {
+    "index": 296,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? palm(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left palm"
+  },
+  "E_57%V_155": {
+    "index": 297,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? penis",
+    "type": "multiple",
+    "short": "Pain radiates to penis"
+  },
+  "E_57%V_187": {
+    "index": 298,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? belly",
+    "type": "multiple",
+    "short": "Pain radiates to belly"
+  },
+  "E_57%V_146": {
+    "index": 299,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? labia minora(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right labia minora"
+  },
+  "E_57%V_147": {
+    "index": 300,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? labia minora(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left labia minora"
+  },
+  "E_57%V_148": {
+    "index": 301,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? pharynx",
+    "type": "multiple",
+    "short": "Pain radiates to pharynx"
+  },
+  "E_57%V_23": {
+    "index": 302,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? posterior aspect of the ankle(R)",
+    "type": "multiple",
+    "short": "Pain radiates to posterior aspect of right ankle"
+  },
+  "E_57%V_24": {
+    "index": 303,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? posterior aspect of the ankle(L)",
+    "type": "multiple",
+    "short": "Pain radiates to posterior aspect of left ankle"
+  },
+  "E_57%V_151": {
+    "index": 304,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thumb(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right thumb"
+  },
+  "E_57%V_152": {
+    "index": 305,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? thumb(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left thumb"
+  },
+  "E_57%V_158": {
+    "index": 306,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? scrotum",
+    "type": "multiple",
+    "short": "Pain radiates to scrotum"
+  },
+  "E_57%V_159": {
+    "index": 307,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? breast(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right breast"
+  },
+  "E_57%V_160": {
+    "index": 308,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? breast(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left breast"
+  },
+  "E_57%V_162": {
+    "index": 309,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? under the tongue",
+    "type": "multiple",
+    "short": "Pain radiates under the tongue"
+  },
+  "E_57%V_163": {
+    "index": 310,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? under the jaw",
+    "type": "multiple",
+    "short": "Pain radiates under the jaw"
+  },
+  "E_57%V_101": {
+    "index": 311,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? upper chest",
+    "type": "multiple",
+    "short": "Pain radiates to upper chest"
+  },
+  "E_57%V_61": {
+    "index": 312,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? above the tongue",
+    "type": "multiple",
+    "short": "Pain radiates above the tongue"
+  },
+  "E_57%V_153": {
+    "index": 313,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? pubis",
+    "type": "multiple",
+    "short": "Pain radiates to pubis"
+  },
+  "E_57%V_164": {
+    "index": 314,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? heel(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right heel"
+  },
+  "E_57%V_165": {
+    "index": 315,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? heel(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left heel"
+  },
+  "E_57%V_166": {
+    "index": 316,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? temple(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right temple"
+  },
+  "E_57%V_167": {
+    "index": 317,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? temple(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left temple"
+  },
+  "E_57%V_168": {
+    "index": 318,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? testicle(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right testicle"
+  },
+  "E_57%V_169": {
+    "index": 319,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? testicle(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left testicle"
+  },
+  "E_57%V_172": {
+    "index": 320,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? tibia(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right tibia"
+  },
+  "E_57%V_173": {
+    "index": 321,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? tibia(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left tibia"
+  },
+  "E_57%V_175": {
+    "index": 322,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? trapezius(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right trapezius"
+  },
+  "E_57%V_176": {
+    "index": 323,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? trapezius(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left trapeziua"
+  },
+  "E_57%V_174": {
+    "index": 324,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? trachea",
+    "type": "multiple",
+    "short": "Pain radiates to trachea"
+  },
+  "E_57%V_177": {
+    "index": 325,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? triceps(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right triceps"
+  },
+  "E_57%V_178": {
+    "index": 326,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? triceps(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left triceps"
+  },
+  "E_57%V_185": {
+    "index": 327,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? urethra",
+    "type": "multiple",
+    "short": "Pain radiates to urethra"
+  },
+  "E_57%V_186": {
+    "index": 328,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vagina",
+    "type": "multiple",
+    "short": "Pain radiates to vagina"
+  },
+  "E_57%V_188": {
+    "index": 329,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vermilion(R)",
+    "type": "multiple",
+    "short": "Pain radiates to right vermilion"
+  },
+  "E_57%V_189": {
+    "index": 330,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vermilion(L)",
+    "type": "multiple",
+    "short": "Pain radiates to left vermilion"
+  },
+  "E_57%V_190": {
+    "index": 331,
+    "default_value": 0,
+    "description": "Does the pain radiate to another location? vulval vestibule",
+    "type": "multiple",
+    "short": "Pain radiates to vulval vestibule"
+  },
+  "E_54%V_11": {
+    "index": 332,
+    "default_value": 1,
+    "description": "Characterize your pain: NA",
+    "type": "multiple",
+    "short": "Unknown pain type"
+  },
+  "E_54%V_71": {
+    "index": 333,
+    "default_value": 0,
+    "description": "Characterize your pain: heartbreaking",
+    "type": "multiple",
+    "short": "Heartbreaking pain"
+  },
+  "E_54%V_112": {
+    "index": 334,
+    "default_value": 0,
+    "description": "Characterize your pain: haunting",
+    "type": "multiple",
+    "short": "Haunting pain"
+  },
+  "E_54%V_154": {
+    "index": 335,
+    "default_value": 0,
+    "description": "Characterize your pain: tedious",
+    "type": "multiple",
+    "short": "Tedious pain"
+  },
+  "E_54%V_161": {
+    "index": 336,
+    "default_value": 0,
+    "description": "Characterize your pain: sensitive",
+    "type": "multiple",
+    "short": "Sensitive pain"
+  },
+  "E_54%V_179": {
+    "index": 337,
+    "default_value": 0,
+    "description": "Characterize your pain: a knife stroke",
+    "type": "multiple",
+    "short": "Knife stroke pain"
+  },
+  "E_54%V_180": {
+    "index": 338,
+    "default_value": 0,
+    "description": "Characterize your pain: tugging",
+    "type": "multiple",
+    "short": "Tugging pain"
+  },
+  "E_54%V_181": {
+    "index": 339,
+    "default_value": 0,
+    "description": "Characterize your pain: burning",
+    "type": "multiple",
+    "short": "Burning pain"
+  },
+  "E_54%V_182": {
+    "index": 340,
+    "default_value": 0,
+    "description": "Characterize your pain: a cramp",
+    "type": "multiple",
+    "short": "Cramp pain"
+  },
+  "E_54%V_183": {
+    "index": 341,
+    "default_value": 0,
+    "description": "Characterize your pain: heavy",
+    "type": "multiple",
+    "short": "Heavy pain"
+  },
+  "E_54%V_184": {
+    "index": 342,
+    "default_value": 0,
+    "description": "Characterize your pain: a pulse",
+    "type": "multiple",
+    "short": "Pulsing pain"
+  },
+  "E_54%V_191": {
+    "index": 343,
+    "default_value": 0,
+    "description": "Characterize your pain: violent",
+    "type": "multiple",
+    "short": "Violent pain"
+  },
+  "E_54%V_192": {
+    "index": 344,
+    "default_value": 0,
+    "description": "Characterize your pain: sharp",
+    "type": "multiple",
+    "short": "Sharp pain"
+  },
+  "E_54%V_193": {
+    "index": 345,
+    "default_value": 0,
+    "description": "Characterize your pain: sickening",
+    "type": "multiple",
+    "short": "Sickening pain"
+  },
+  "E_54%V_196": {
+    "index": 346,
+    "default_value": 0,
+    "description": "Characterize your pain: scary",
+    "type": "multiple",
+    "short": "Scary pain"
+  },
+  "E_54%V_198": {
+    "index": 347,
+    "default_value": 0,
+    "description": "Characterize your pain: exhausting",
+    "type": "multiple",
+    "short": "Exhausting pain"
+  },
+  "E_59": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "How fast did the pain appear?",
+    "index": 349,
+    "type": "categorical",
+    "short": "Pain appeared quickly"
+  },
+  "E_56": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "How intense is the pain?",
+    "index": 350,
+    "type": "categorical",
+    "short": "Pain intensity"
+  },
+  "E_58": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "How precisely is the pain located?",
+    "index": 351,
+    "type": "categorical",
+    "short": "Pain precision"
+  },
+  "E_159": {
+    "default": 0,
+    "description": "Did you lose consciousness?",
+    "index": 351,
+    "type": "binary",
+    "short": "Lose of consciousness"
+  },
+  "E_133%V_123": {
+    "index": 352,
+    "default_value": 1,
+    "description": "Where is the affected region located? nowhere",
+    "type": "multiple",
+    "short": "No affected region"
+  },
+  "E_133%V_14": {
+    "index": 353,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac wing(R)",
+    "type": "multiple",
+    "short": "Right iliac wing problems"
+  },
+  "E_133%V_15": {
+    "index": 354,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac wing(L)",
+    "type": "multiple",
+    "short": "Left iliac wing problems"
+  },
+  "E_133%V_16": {
+    "index": 355,
+    "default_value": 0,
+    "description": "Where is the affected region located? groin(R)",
+    "type": "multiple",
+    "short": "Right groin problems"
+  },
+  "E_133%V_17": {
+    "index": 356,
+    "default_value": 0,
+    "description": "Where is the affected region located? groin(L)",
+    "type": "multiple",
+    "short": "Left groin problems"
+  },
+  "E_133%V_19": {
+    "index": 357,
+    "default_value": 0,
+    "description": "Where is the affected region located? axilla(L)",
+    "type": "multiple",
+    "short": "Left axilla problems"
+  },
+  "E_133%V_18": {
+    "index": 358,
+    "default_value": 0,
+    "description": "Where is the affected region located? axilla(R)",
+    "type": "multiple",
+    "short": "Right axilla problems"
+  },
+  "E_133%V_20": {
+    "index": 359,
+    "default_value": 0,
+    "description": "Where is the affected region located? tonsil(R)",
+    "type": "multiple",
+    "short": "Right tonsil problems"
+  },
+  "E_133%V_21": {
+    "index": 360,
+    "default_value": 0,
+    "description": "Where is the affected region located? tonsil(L)",
+    "type": "multiple",
+    "short": "Left tonsil problems"
+  },
+  "E_133%V_22": {
+    "index": 361,
+    "default_value": 0,
+    "description": "Where is the affected region located? anus",
+    "type": "multiple",
+    "short": "Anus problems"
+  },
+  "E_133%V_26": {
+    "index": 362,
+    "default_value": 0,
+    "description": "Where is the affected region located? back of the neck",
+    "type": "multiple",
+    "short": "Back of the neck problems"
+  },
+  "E_133%V_25": {
+    "index": 363,
+    "default_value": 0,
+    "description": "Where is the affected region located? back of head",
+    "type": "multiple",
+    "short": "Back of the head problems"
+  },
+  "E_133%V_30": {
+    "index": 364,
+    "default_value": 0,
+    "description": "Where is the affected region located? biceps(R)",
+    "type": "multiple",
+    "short": "Right biceps problems"
+  },
+  "E_133%V_31": {
+    "index": 365,
+    "default_value": 0,
+    "description": "Where is the affected region located? biceps(L)",
+    "type": "multiple",
+    "short": "Left biceps problems"
+  },
+  "E_133%V_32": {
+    "index": 366,
+    "default_value": 0,
+    "description": "Where is the affected region located? mouth",
+    "type": "multiple",
+    "short": "Mouth problems"
+  },
+  "E_133%V_33": {
+    "index": 367,
+    "default_value": 0,
+    "description": "Where is the affected region located? thyroid cartilage",
+    "type": "multiple",
+    "short": "Thyroid cartilage problems"
+  },
+  "E_133%V_34": {
+    "index": 368,
+    "default_value": 0,
+    "description": "Where is the affected region located? ankle(R)",
+    "type": "multiple",
+    "short": "Right ankle problems"
+  },
+  "E_133%V_35": {
+    "index": 369,
+    "default_value": 0,
+    "description": "Where is the affected region located? ankle(L)",
+    "type": "multiple",
+    "short": "Left ankle problems"
+  },
+  "E_133%V_36": {
+    "index": 370,
+    "default_value": 0,
+    "description": "Where is the affected region located? clitoris",
+    "type": "multiple",
+    "short": "Clitoris problems"
+  },
+  "E_133%V_37": {
+    "index": 371,
+    "default_value": 0,
+    "description": "Where is the affected region located? coccyx",
+    "type": "multiple",
+    "short": "Coccyx problems"
+  },
+  "E_133%V_38": {
+    "index": 372,
+    "default_value": 0,
+    "description": "Where is the affected region located? cervical spine",
+    "type": "multiple",
+    "short": "Cervical spine problems"
+  },
+  "E_133%V_39": {
+    "index": 373,
+    "default_value": 0,
+    "description": "Where is the affected region located? thoracic spine",
+    "type": "multiple",
+    "short": "Thoracic spine problems"
+  },
+  "E_133%V_40": {
+    "index": 374,
+    "default_value": 0,
+    "description": "Where is the affected region located? lumbar spine",
+    "type": "multiple",
+    "short": "Lumbar spine problems"
+  },
+  "E_133%V_41": {
+    "index": 375,
+    "default_value": 0,
+    "description": "Where is the affected region located? commissure(R)",
+    "type": "multiple",
+    "short": "Right commisure problems"
+  },
+  "E_133%V_42": {
+    "index": 376,
+    "default_value": 0,
+    "description": "Where is the affected region located? commissure(L)",
+    "type": "multiple",
+    "short": "Left commisure problems"
+  },
+  "E_133%V_49": {
+    "index": 377,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac crest(R)",
+    "type": "multiple",
+    "short": "Right iliac crest problems"
+  },
+  "E_133%V_50": {
+    "index": 378,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac crest(L)",
+    "type": "multiple",
+    "short": "Left iliac crest problems"
+  },
+  "E_133%V_51": {
+    "index": 379,
+    "default_value": 0,
+    "description": "Where is the affected region located? thigh(R)",
+    "type": "multiple",
+    "short": "Right thigh problems"
+  },
+  "E_133%V_52": {
+    "index": 380,
+    "default_value": 0,
+    "description": "Where is the affected region located? thigh(L)",
+    "type": "multiple",
+    "short": "Left thigh problems"
+  },
+  "E_133%V_57": {
+    "index": 381,
+    "default_value": 0,
+    "description": "Where is the affected region located? lower teeth(R)",
+    "type": "multiple",
+    "short": "Right lower teeth problems"
+  },
+  "E_133%V_58": {
+    "index": 382,
+    "default_value": 0,
+    "description": "Where is the affected region located? lower teeth(L)",
+    "type": "multiple",
+    "short": "Left lower teeth problems"
+  },
+  "E_133%V_59": {
+    "index": 383,
+    "default_value": 0,
+    "description": "Where is the affected region located? upper teeth(R)",
+    "type": "multiple",
+    "short": "Right upper teeth problems"
+  },
+  "E_133%V_60": {
+    "index": 384,
+    "default_value": 0,
+    "description": "Where is the affected region located? upper teeth(L)",
+    "type": "multiple",
+    "short": "Left upper teeth problems"
+  },
+  "E_133%V_67": {
+    "index": 385,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (index)(R)",
+    "type": "multiple",
+    "short": "Right index finger problems"
+  },
+  "E_133%V_68": {
+    "index": 386,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (index)(L)",
+    "type": "multiple",
+    "short": "Left index finger problems"
+  },
+  "E_133%V_69": {
+    "index": 387,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (middle)(R)",
+    "type": "multiple",
+    "short": "Right middle finger problems"
+  },
+  "E_133%V_70": {
+    "index": 388,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (middle)(L)",
+    "type": "multiple",
+    "short": "Left middle finger problems"
+  },
+  "E_133%V_63": {
+    "index": 389,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (ring finger)(R)",
+    "type": "multiple",
+    "short": "Right ring finger problems"
+  },
+  "E_133%V_64": {
+    "index": 390,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (ring finger)(L)",
+    "type": "multiple",
+    "short": "Left ring finger problems"
+  },
+  "E_133%V_65": {
+    "index": 391,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (little finger)(R)",
+    "type": "multiple",
+    "short": "Right little finger problems"
+  },
+  "E_133%V_66": {
+    "index": 392,
+    "default_value": 0,
+    "description": "Where is the affected region located? finger (little finger)(L)",
+    "type": "multiple",
+    "short": "Left little finger problems"
+  },
+  "E_133%V_62": {
+    "index": 393,
+    "default_value": 0,
+    "description": "Where is the affected region located? top of the head",
+    "type": "multiple",
+    "short": "Top of the head problems"
+  },
+  "E_133%V_194": {
+    "index": 394,
+    "default_value": 0,
+    "description": "Where is the affected region located? shoulder(R)",
+    "type": "multiple",
+    "short": "Right shoulder problems"
+  },
+  "E_133%V_195": {
+    "index": 395,
+    "default_value": 0,
+    "description": "Where is the affected region located? shoulder(L)",
+    "type": "multiple",
+    "short": "Left shoulder problems"
+  },
+  "E_133%V_197": {
+    "index": 396,
+    "default_value": 0,
+    "description": "Where is the affected region located? epigastric",
+    "type": "multiple",
+    "short": "Epigastric problems"
+  },
+  "E_133%V_27": {
+    "index": 397,
+    "default_value": 0,
+    "description": "Where is the affected region located? forearm(R)",
+    "type": "multiple",
+    "short": "Right forearm problems"
+  },
+  "E_133%V_28": {
+    "index": 398,
+    "default_value": 0,
+    "description": "Where is the affected region located? forearm(L)",
+    "type": "multiple",
+    "short": "Left forearm problems"
+  },
+  "E_133%V_76": {
+    "index": 399,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the hand(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right hand problems"
+  },
+  "E_133%V_77": {
+    "index": 400,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the hand(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left hand problems"
+  },
+  "E_133%V_72": {
+    "index": 401,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the foot(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right foot problems"
+  },
+  "E_133%V_73": {
+    "index": 402,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the foot(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left foot problems"
+  },
+  "E_133%V_74": {
+    "index": 403,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the wrist(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right wrist problems"
+  },
+  "E_133%V_75": {
+    "index": 404,
+    "default_value": 0,
+    "description": "Where is the affected region located? dorsal aspect of the wrist(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the left wrist problems"
+  },
+  "E_133%V_149": {
+    "index": 405,
+    "default_value": 0,
+    "description": "Where is the affected region located? sole(R)",
+    "type": "multiple",
+    "short": "Right sole problems"
+  },
+  "E_133%V_150": {
+    "index": 406,
+    "default_value": 0,
+    "description": "Where is the affected region located? sole(L)",
+    "type": "multiple",
+    "short": "Left sole problems"
+  },
+  "E_133%V_80": {
+    "index": 407,
+    "default_value": 0,
+    "description": "Where is the affected region located? palmar face of the wrist(R)",
+    "type": "multiple",
+    "short": "Palmar face of the right wrist problems"
+  },
+  "E_133%V_81": {
+    "index": 408,
+    "default_value": 0,
+    "description": "Where is the affected region located? palmar face of the wrist(L)",
+    "type": "multiple",
+    "short": "Palmar face of the left wrist problems"
+  },
+  "E_133%V_43": {
+    "index": 409,
+    "default_value": 0,
+    "description": "Where is the affected region located? lateral side of the foot(R)",
+    "type": "multiple",
+    "short": "Lateral side of the right foot problems"
+  },
+  "E_133%V_44": {
+    "index": 410,
+    "default_value": 0,
+    "description": "Where is the affected region located? lateral side of the foot(L)",
+    "type": "multiple",
+    "short": "Lateral side of the left foot problems"
+  },
+  "E_133%V_82": {
+    "index": 411,
+    "default_value": 0,
+    "description": "Where is the affected region located? buttock(R)",
+    "type": "multiple",
+    "short": "Right buttock problems"
+  },
+  "E_133%V_83": {
+    "index": 412,
+    "default_value": 0,
+    "description": "Where is the affected region located? buttock(L)",
+    "type": "multiple",
+    "short": "Left buttock problems"
+  },
+  "E_133%V_84": {
+    "index": 413,
+    "default_value": 0,
+    "description": "Where is the affected region located? flank(R)",
+    "type": "multiple",
+    "short": "Right flank problems"
+  },
+  "E_133%V_85": {
+    "index": 414,
+    "default_value": 0,
+    "description": "Where is the affected region located? flank(L)",
+    "type": "multiple",
+    "short": "Left flank problems"
+  },
+  "E_133%V_78": {
+    "index": 415,
+    "default_value": 0,
+    "description": "Where is the affected region located? palmar side of the forearm(R)",
+    "type": "multiple",
+    "short": "Palmar side of the right forearm problems"
+  },
+  "E_133%V_79": {
+    "index": 416,
+    "default_value": 0,
+    "description": "Where is the affected region located? palmar side of the forearm(L)",
+    "type": "multiple",
+    "short": "Palmar side of the left forearm problems"
+  },
+  "E_133%V_87": {
+    "index": 417,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac fossa(R)",
+    "type": "multiple",
+    "short": "Right iliac fossa problems"
+  },
+  "E_133%V_88": {
+    "index": 418,
+    "default_value": 0,
+    "description": "Where is the affected region located? iliac fossa(L)",
+    "type": "multiple",
+    "short": "Left iliac fossa problems"
+  },
+  "E_133%V_89": {
+    "index": 419,
+    "default_value": 0,
+    "description": "Where is the affected region located? forehead",
+    "type": "multiple",
+    "short": "Forehead problems"
+  },
+  "E_133%V_92": {
+    "index": 420,
+    "default_value": 0,
+    "description": "Where is the affected region located? knee(R)",
+    "type": "multiple",
+    "short": "Right knee problems"
+  },
+  "E_133%V_93": {
+    "index": 421,
+    "default_value": 0,
+    "description": "Where is the affected region located? knee(L)",
+    "type": "multiple",
+    "short": "Left knee problems"
+  },
+  "E_133%V_90": {
+    "index": 422,
+    "default_value": 0,
+    "description": "Where is the affected region located? lower gum",
+    "type": "multiple",
+    "short": "Lower gum problems"
+  },
+  "E_133%V_47": {
+    "index": 423,
+    "default_value": 0,
+    "description": "Where is the affected region located? popliteal fossa(R)",
+    "type": "multiple",
+    "short": "Right popliteal fossa problems"
+  },
+  "E_133%V_48": {
+    "index": 424,
+    "default_value": 0,
+    "description": "Where is the affected region located? popliteal fossa(L)",
+    "type": "multiple",
+    "short": "Left popliteal fossa problems"
+  },
+  "E_133%V_91": {
+    "index": 425,
+    "default_value": 0,
+    "description": "Where is the affected region located? upper gum",
+    "type": "multiple",
+    "short": "Upper gum problems"
+  },
+  "E_133%V_94": {
+    "index": 426,
+    "default_value": 0,
+    "description": "Where is the affected region located? glans",
+    "type": "multiple",
+    "short": "Glans problems"
+  },
+  "E_133%V_95": {
+    "index": 427,
+    "default_value": 0,
+    "description": "Where is the affected region located? labia majora(R)",
+    "type": "multiple",
+    "short": "Right labia majora problems"
+  },
+  "E_133%V_96": {
+    "index": 428,
+    "default_value": 0,
+    "description": "Where is the affected region located? labia majora(L)",
+    "type": "multiple",
+    "short": "Left labia majora problems"
+  },
+  "E_133%V_97": {
+    "index": 429,
+    "default_value": 0,
+    "description": "Where is the affected region located? big toe(R)",
+    "type": "multiple",
+    "short": "Right big toe problems"
+  },
+  "E_133%V_98": {
+    "index": 430,
+    "default_value": 0,
+    "description": "Where is the affected region located? big toe(L)",
+    "type": "multiple",
+    "short": "Left big toe problems"
+  },
+  "E_133%V_99": {
+    "index": 431,
+    "default_value": 0,
+    "description": "Where is the affected region located? hip(R)",
+    "type": "multiple",
+    "short": "Right hip problems"
+  },
+  "E_133%V_100": {
+    "index": 432,
+    "default_value": 0,
+    "description": "Where is the affected region located? hip(L)",
+    "type": "multiple",
+    "short": "Left hip problems"
+  },
+  "E_133%V_102": {
+    "index": 433,
+    "default_value": 0,
+    "description": "Where is the affected region located? hymen",
+    "type": "multiple",
+    "short": "Hymen problems"
+  },
+  "E_133%V_103": {
+    "index": 434,
+    "default_value": 0,
+    "description": "Where is the affected region located? hypochondrium(R)",
+    "type": "multiple",
+    "short": "Right hypochondrium problems"
+  },
+  "E_133%V_104": {
+    "index": 435,
+    "default_value": 0,
+    "description": "Where is the affected region located? hypochondrium(L)",
+    "type": "multiple",
+    "short": "Left hypochondrium problems"
+  },
+  "E_133%V_105": {
+    "index": 436,
+    "default_value": 0,
+    "description": "Where is the affected region located? ischio jambier(R)",
+    "type": "multiple",
+    "short": "Right ischio jambier problems"
+  },
+  "E_133%V_106": {
+    "index": 437,
+    "default_value": 0,
+    "description": "Where is the affected region located? ischio jambier(L)",
+    "type": "multiple",
+    "short": "Left ischio jambier problems"
+  },
+  "E_133%V_108": {
+    "index": 438,
+    "default_value": 0,
+    "description": "Where is the affected region located? cheek(R)",
+    "type": "multiple",
+    "short": "Right cheek problems"
+  },
+  "E_133%V_109": {
+    "index": 439,
+    "default_value": 0,
+    "description": "Where is the affected region located? cheek(L)",
+    "type": "multiple",
+    "short": "Left cheek problems"
+  },
+  "E_133%V_110": {
+    "index": 440,
+    "default_value": 0,
+    "description": "Where is the affected region located? internal cheek(R)",
+    "type": "multiple",
+    "short": "Right internal cheek problems"
+  },
+  "E_133%V_111": {
+    "index": 441,
+    "default_value": 0,
+    "description": "Where is the affected region located? internal cheek(L)",
+    "type": "multiple",
+    "short": "Left internal cheek problems"
+  },
+  "E_133%V_53": {
+    "index": 442,
+    "default_value": 0,
+    "description": "Where is the affected region located? side of the neck(R)",
+    "type": "multiple",
+    "short": "Right side of the neck problems"
+  },
+  "E_133%V_54": {
+    "index": 443,
+    "default_value": 0,
+    "description": "Where is the affected region located? side of the neck(L)",
+    "type": "multiple",
+    "short": "Left side of the neck problems"
+  },
+  "E_133%V_55": {
+    "index": 444,
+    "default_value": 0,
+    "description": "Where is the affected region located? side of the chest(R)",
+    "type": "multiple",
+    "short": "Right side of the chest problems"
+  },
+  "E_133%V_56": {
+    "index": 445,
+    "default_value": 0,
+    "description": "Where is the affected region located? side of the chest(L)",
+    "type": "multiple",
+    "short": "Left side of the chest problems"
+  },
+  "E_133%V_116": {
+    "index": 446,
+    "default_value": 0,
+    "description": "Where is the affected region located? bottom lip(R)",
+    "type": "multiple",
+    "short": "Right bottom lip problems"
+  },
+  "E_133%V_117": {
+    "index": 447,
+    "default_value": 0,
+    "description": "Where is the affected region located? upper lip(R)",
+    "type": "multiple",
+    "short": "Right upper lip problems"
+  },
+  "E_133%V_113": {
+    "index": 448,
+    "default_value": 0,
+    "description": "Where is the affected region located? renal fossa(R)",
+    "type": "multiple",
+    "short": "Right renal fossa problems"
+  },
+  "E_133%V_114": {
+    "index": 449,
+    "default_value": 0,
+    "description": "Where is the affected region located? renal fossa(L)",
+    "type": "multiple",
+    "short": "Left renal fossa problems"
+  },
+  "E_133%V_115": {
+    "index": 450,
+    "default_value": 0,
+    "description": "Where is the affected region located? uvula",
+    "type": "multiple",
+    "short": "Uvula problems"
+  },
+  "E_133%V_121": {
+    "index": 451,
+    "default_value": 0,
+    "description": "Where is the affected region located? jaw",
+    "type": "multiple",
+    "short": "Jaw problems"
+  },
+  "E_133%V_118": {
+    "index": 452,
+    "default_value": 0,
+    "description": "Where is the affected region located? chin",
+    "type": "multiple",
+    "short": "Chin problems"
+  },
+  "E_133%V_29": {
+    "index": 453,
+    "default_value": 0,
+    "description": "Where is the affected region located? lower chest",
+    "type": "multiple",
+    "short": "Lower chest problems"
+  },
+  "E_133%V_119": {
+    "index": 454,
+    "default_value": 0,
+    "description": "Where is the affected region located? calf(R)",
+    "type": "multiple",
+    "short": "Right calf problems"
+  },
+  "E_133%V_120": {
+    "index": 455,
+    "default_value": 0,
+    "description": "Where is the affected region located? calf(L)",
+    "type": "multiple",
+    "short": "Left calf problems"
+  },
+  "E_133%V_122": {
+    "index": 456,
+    "default_value": 0,
+    "description": "Where is the affected region located? nose",
+    "type": "multiple",
+    "short": "Nose problems"
+  },
+  "E_133%V_124": {
+    "index": 457,
+    "default_value": 0,
+    "description": "Where is the affected region located? occiput",
+    "type": "multiple",
+    "short": "Occiput problems"
+  },
+  "E_133%V_125": {
+    "index": 458,
+    "default_value": 0,
+    "description": "Where is the affected region located? eye(R)",
+    "type": "multiple",
+    "short": "Right eye problems"
+  },
+  "E_133%V_126": {
+    "index": 459,
+    "default_value": 0,
+    "description": "Where is the affected region located? eye(L)",
+    "type": "multiple",
+    "short": "Left eye problems"
+  },
+  "E_133%V_127": {
+    "index": 460,
+    "default_value": 0,
+    "description": "Where is the affected region located? scapula(R)",
+    "type": "multiple",
+    "short": "Right scapula problems"
+  },
+  "E_133%V_128": {
+    "index": 461,
+    "default_value": 0,
+    "description": "Where is the affected region located? scapula(L)",
+    "type": "multiple",
+    "short": "Left scapula problems"
+  },
+  "E_133%V_129": {
+    "index": 462,
+    "default_value": 0,
+    "description": "Where is the affected region located? ear(R)",
+    "type": "multiple",
+    "short": "Right ear problems"
+  },
+  "E_133%V_130": {
+    "index": 463,
+    "default_value": 0,
+    "description": "Where is the affected region located? ear(L)",
+    "type": "multiple",
+    "short": "Left ear problems"
+  },
+  "E_133%V_131": {
+    "index": 464,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (1)(R)",
+    "type": "multiple",
+    "short": "Right first toe problems"
+  },
+  "E_133%V_132": {
+    "index": 465,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (1)(L)",
+    "type": "multiple",
+    "short": "Left first toe problems"
+  },
+  "E_133%V_133": {
+    "index": 466,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (2)(R)",
+    "type": "multiple",
+    "short": "Right second toe problems"
+  },
+  "E_133%V_134": {
+    "index": 467,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (2)(L)",
+    "type": "multiple",
+    "short": "Left second toe"
+  },
+  "E_133%V_135": {
+    "index": 468,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (3)(R)",
+    "type": "multiple",
+    "short": "Right third toe"
+  },
+  "E_133%V_136": {
+    "index": 469,
+    "default_value": 0,
+    "description": "Where is the affected region located? toe (3)(L)",
+    "type": "multiple",
+    "short": "Left third toe"
+  },
+  "E_133%V_144": {
+    "index": 470,
+    "default_value": 0,
+    "description": "Where is the affected region located? little toe (4)(R)",
+    "type": "multiple",
+    "short": "Right fourth toe"
+  },
+  "E_133%V_145": {
+    "index": 471,
+    "default_value": 0,
+    "description": "Where is the affected region located? little toe (4)(L)",
+    "type": "multiple",
+    "short": "Left fourth toe"
+  },
+  "E_133%V_45": {
+    "index": 472,
+    "default_value": 0,
+    "description": "Where is the affected region located? elbow(R)",
+    "type": "multiple",
+    "short": "Right elbow"
+  },
+  "E_133%V_46": {
+    "index": 473,
+    "default_value": 0,
+    "description": "Where is the affected region located? elbow(L)",
+    "type": "multiple",
+    "short": "Left elbow"
+  },
+  "E_133%V_137": {
+    "index": 474,
+    "default_value": 0,
+    "description": "Where is the affected region located? palace",
+    "type": "multiple",
+    "short": "Palace problems"
+  },
+  "E_133%V_170": {
+    "index": 475,
+    "default_value": 0,
+    "description": "Where is the affected region located? posterior chest wall(R)",
+    "type": "multiple",
+    "short": "Right posterior chest wall problems"
+  },
+  "E_133%V_171": {
+    "index": 476,
+    "default_value": 0,
+    "description": "Where is the affected region located? posterior chest wall(L)",
+    "type": "multiple",
+    "short": "Left posterior chest wall problems"
+  },
+  "E_133%V_139": {
+    "index": 477,
+    "default_value": 0,
+    "description": "Where is the affected region located? vaginal wall",
+    "type": "multiple",
+    "short": "Vaginal wall problems"
+  },
+  "E_133%V_140": {
+    "index": 478,
+    "default_value": 0,
+    "description": "Where is the affected region located? vaginal wall(R)",
+    "type": "multiple",
+    "short": "Right vaginal wall problems"
+  },
+  "E_133%V_141": {
+    "index": 479,
+    "default_value": 0,
+    "description": "Where is the affected region located? vaginal wall(L)",
+    "type": "multiple",
+    "short": "Left vaginal wall problems"
+  },
+  "E_133%V_142": {
+    "index": 480,
+    "default_value": 0,
+    "description": "Where is the affected region located? palm(R)",
+    "type": "multiple",
+    "short": "Right palm problems"
+  },
+  "E_133%V_143": {
+    "index": 481,
+    "default_value": 0,
+    "description": "Where is the affected region located? palm(L)",
+    "type": "multiple",
+    "short": "Left palm problems"
+  },
+  "E_133%V_155": {
+    "index": 482,
+    "default_value": 0,
+    "description": "Where is the affected region located? penis",
+    "type": "multiple",
+    "short": "Penis problems"
+  },
+  "E_133%V_187": {
+    "index": 483,
+    "default_value": 0,
+    "description": "Where is the affected region located? belly",
+    "type": "multiple",
+    "short": "Belly problems"
+  },
+  "E_133%V_146": {
+    "index": 484,
+    "default_value": 0,
+    "description": "Where is the affected region located? labia minora(R)",
+    "type": "multiple",
+    "short": "Right labia minora problems"
+  },
+  "E_133%V_147": {
+    "index": 485,
+    "default_value": 0,
+    "description": "Where is the affected region located? labia minora(L)",
+    "type": "multiple",
+    "short": "Left labia minora problems"
+  },
+  "E_133%V_148": {
+    "index": 486,
+    "default_value": 0,
+    "description": "Where is the affected region located? pharynx",
+    "type": "multiple",
+    "short": "Pharynx problems"
+  },
+  "E_133%V_23": {
+    "index": 487,
+    "default_value": 0,
+    "description": "Where is the affected region located? posterior aspect of the ankle(R)",
+    "type": "multiple",
+    "short": "Posterior aspect of the right ankle problems"
+  },
+  "E_133%V_24": {
+    "index": 488,
+    "default_value": 0,
+    "description": "Where is the affected region located? posterior aspect of the ankle(L)",
+    "type": "multiple",
+    "short": "Posterior aspect of the left ankle problems"
+  },
+  "E_133%V_151": {
+    "index": 489,
+    "default_value": 0,
+    "description": "Where is the affected region located? thumb(R)",
+    "type": "multiple",
+    "short": "Right thumb problems"
+  },
+  "E_133%V_152": {
+    "index": 490,
+    "default_value": 0,
+    "description": "Where is the affected region located? thumb(L)",
+    "type": "multiple",
+    "short": "Left thumb problems"
+  },
+  "E_133%V_158": {
+    "index": 491,
+    "default_value": 0,
+    "description": "Where is the affected region located? scrotum",
+    "type": "multiple",
+    "short": "Scrotum problems"
+  },
+  "E_133%V_159": {
+    "index": 492,
+    "default_value": 0,
+    "description": "Where is the affected region located? breast(R)",
+    "type": "multiple",
+    "short": "Right breast problems"
+  },
+  "E_133%V_160": {
+    "index": 493,
+    "default_value": 0,
+    "description": "Where is the affected region located? breast(L)",
+    "type": "multiple",
+    "short": "Left breast problems"
+  },
+  "E_133%V_162": {
+    "index": 494,
+    "default_value": 0,
+    "description": "Where is the affected region located? under the tongue",
+    "type": "multiple",
+    "short": "Under the tongue problems"
+  },
+  "E_133%V_163": {
+    "index": 495,
+    "default_value": 0,
+    "description": "Where is the affected region located? under the jaw",
+    "type": "multiple",
+    "short": "Under the jaw problems"
+  },
+  "E_133%V_101": {
+    "index": 496,
+    "default_value": 0,
+    "description": "Where is the affected region located? upper chest",
+    "type": "multiple",
+    "short": "Upper chest problems"
+  },
+  "E_133%V_61": {
+    "index": 497,
+    "default_value": 0,
+    "description": "Where is the affected region located? above the tongue",
+    "type": "multiple",
+    "short": "Above the tongue problems"
+  },
+  "E_133%V_153": {
+    "index": 498,
+    "default_value": 0,
+    "description": "Where is the affected region located? pubis",
+    "type": "multiple",
+    "short": "Pubis problems"
+  },
+  "E_133%V_164": {
+    "index": 499,
+    "default_value": 0,
+    "description": "Where is the affected region located? heel(R)",
+    "type": "multiple",
+    "short": "Right heel problems"
+  },
+  "E_133%V_165": {
+    "index": 500,
+    "default_value": 0,
+    "description": "Where is the affected region located? heel(L)",
+    "type": "multiple",
+    "short": "Left heel problems"
+  },
+  "E_133%V_166": {
+    "index": 501,
+    "default_value": 0,
+    "description": "Where is the affected region located? temple(R)",
+    "type": "multiple",
+    "short": "Right temple problems"
+  },
+  "E_133%V_167": {
+    "index": 502,
+    "default_value": 0,
+    "description": "Where is the affected region located? temple(L)",
+    "type": "multiple",
+    "short": "Left temple problems"
+  },
+  "E_133%V_168": {
+    "index": 503,
+    "default_value": 0,
+    "description": "Where is the affected region located? testicle(R)",
+    "type": "multiple",
+    "short": "Right testicle problems"
+  },
+  "E_133%V_169": {
+    "index": 504,
+    "default_value": 0,
+    "description": "Where is the affected region located? testicle(L)",
+    "type": "multiple",
+    "short": "Left testicle problems"
+  },
+  "E_133%V_172": {
+    "index": 505,
+    "default_value": 0,
+    "description": "Where is the affected region located? tibia(R)",
+    "type": "multiple",
+    "short": "Right tibia problems"
+  },
+  "E_133%V_173": {
+    "index": 506,
+    "default_value": 0,
+    "description": "Where is the affected region located? tibia(L)",
+    "type": "multiple",
+    "short": "Left tibia problems"
+  },
+  "E_133%V_175": {
+    "index": 507,
+    "default_value": 0,
+    "description": "Where is the affected region located? trapezius(R)",
+    "type": "multiple",
+    "short": "Right trapezius problems"
+  },
+  "E_133%V_176": {
+    "index": 508,
+    "default_value": 0,
+    "description": "Where is the affected region located? trapezius(L)",
+    "type": "multiple",
+    "short": "Left trapezius problems"
+  },
+  "E_133%V_174": {
+    "index": 509,
+    "default_value": 0,
+    "description": "Where is the affected region located? trachea",
+    "type": "multiple",
+    "short": "Trachea problems"
+  },
+  "E_133%V_177": {
+    "index": 510,
+    "default_value": 0,
+    "description": "Where is the affected region located? triceps(R)",
+    "type": "multiple",
+    "short": "Right triceps problems"
+  },
+  "E_133%V_178": {
+    "index": 511,
+    "default_value": 0,
+    "description": "Where is the affected region located? triceps(L)",
+    "type": "multiple",
+    "short": "Left triceps problems"
+  },
+  "E_133%V_185": {
+    "index": 512,
+    "default_value": 0,
+    "description": "Where is the affected region located? urethra",
+    "type": "multiple",
+    "short": "Urethra problems"
+  },
+  "E_133%V_186": {
+    "index": 513,
+    "default_value": 0,
+    "description": "Where is the affected region located? vagina",
+    "type": "multiple",
+    "short": "Vagina problems"
+  },
+  "E_133%V_188": {
+    "index": 514,
+    "default_value": 0,
+    "description": "Where is the affected region located? vermilion(R)",
+    "type": "multiple",
+    "short": "Right vermillion problems"
+  },
+  "E_133%V_189": {
+    "index": 515,
+    "default_value": 0,
+    "description": "Where is the affected region located? vermilion(L)",
+    "type": "multiple",
+    "short": "Left vermillion problems"
+  },
+  "E_133%V_190": {
+    "index": 516,
+    "default_value": 0,
+    "description": "Where is the affected region located? vulval vestibule",
+    "type": "multiple",
+    "short": "Vulval vestibule problems"
+  },
+  "E_129": {
+    "default": 0,
+    "description": "Do you have any lesions, redness or problems on your skin that you believe are related to the condition you are consulting for?",
+    "index": 517,
+    "type": "binary",
+    "short": "Lesions/redness/other skin problems"
+  },
+  "E_130": {
+    "values": {
+      "V_11": {
+        "index": 0,
+        "description": "NA"
+      },
+      "V_86": {
+        "index": 1,
+        "description": "dark"
+      },
+      "V_107": {
+        "index": 2,
+        "description": "yellow"
+      },
+      "V_138": {
+        "index": 3,
+        "description": "pale"
+      },
+      "V_156": {
+        "index": 4,
+        "description": "pink"
+      },
+      "V_157": {
+        "index": 5,
+        "description": "red"
+      }
+    },
+    "default": 0,
+    "description": "What color is the rash?",
+    "index": 519,
+    "type": "categorical",
+    "short": "I have a rash"
+  },
+  "E_134": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "How intense is the pain caused by the rash?",
+    "index": 520,
+    "type": "categorical",
+    "short": "Rash pain"
+  },
+  "E_132": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "Is the rash swollen?",
+    "index": 521,
+    "type": "categorical",
+    "short": "Swollen rash"
+  },
+  "E_136": {
+    "values": {
+      "0": {
+        "index": 0,
+        "description": 0
+      },
+      "1": {
+        "index": 1,
+        "description": 1
+      },
+      "2": {
+        "index": 2,
+        "description": 2
+      },
+      "3": {
+        "index": 3,
+        "description": 3
+      },
+      "4": {
+        "index": 4,
+        "description": 4
+      },
+      "5": {
+        "index": 5,
+        "description": 5
+      },
+      "6": {
+        "index": 6,
+        "description": 6
+      },
+      "7": {
+        "index": 7,
+        "description": 7
+      },
+      "8": {
+        "index": 8,
+        "description": 8
+      },
+      "9": {
+        "index": 9,
+        "description": 9
+      },
+      "10": {
+        "index": 10,
+        "description": 10
+      }
+    },
+    "default": 0,
+    "description": "How severe is the itching?",
+    "index": 522,
+    "type": "categorical",
+    "short": "Itching severity"
+  },
+  "E_135": {
+    "values": {
+      "V_10": {
+        "index": 0,
+        "description": "N"
+      },
+      "V_12": {
+        "index": 1,
+        "description": "Y"
+      }
+    },
+    "default": 0,
+    "description": "Is the lesion (or are the lesions) larger than 1cm?",
+    "index": 523,
+    "type": "categorical",
+    "short": "Lesion larger than 1cm"
+  },
+  "E_131": {
+    "values": {
+      "V_10": {
+        "index": 0,
+        "description": "N"
+      },
+      "V_12": {
+        "index": 1,
+        "description": "Y"
+      }
+    },
+    "default": 0,
+    "description": "Do your lesions peel off?",
+    "index": 524,
+    "type": "categorical",
+    "short": "Lesions that peel off"
+  },
+  "E_154": {
+    "default": 0,
+    "description": "Is your skin much paler than usual?",
+    "index": 524,
+    "type": "binary",
+    "short": "Skin paler than usual"
+  },
+  "E_155": {
+    "default": 0,
+    "description": "Do you feel your heart is beating fast (racing), irregularly (missing a beat) or do you feel palpitations?",
+    "index": 525,
+    "type": "binary",
+    "short": "Heart beating fast, irregularly, or heart palpitations"
+  },
+  "E_210": {
+    "default": 0,
+    "description": "Have you recently thrown up blood or something resembling coffee beans?",
+    "index": 526,
+    "type": "binary",
+    "short": "Thrown up blood resembling coffee beans"
+  },
+  "E_140": {
+    "default": 0,
+    "description": "Have you recently had stools that were black (like coal)?",
+    "index": 527,
+    "type": "binary",
+    "short": "Black stools"
+  },
+  "E_51": {
+    "default": 0,
+    "description": "Have you had diarrhea or an increase in stool frequency?",
+    "index": 528,
+    "type": "binary",
+    "short": "Diarrhea or increase in stool frequency"
+  },
+  "E_75": {
+    "default": 0,
+    "description": "Do you feel like you are (or were) choking or suffocating?",
+    "index": 529,
+    "type": "binary",
+    "short": "Choking or suffocating"
+  },
+  "E_89": {
+    "default": 0,
+    "description": "Do you constantly feel fatigued or do you have non-restful sleep?",
+    "index": 530,
+    "type": "binary",
+    "short": "Fatigue or non-restful sleep"
+  },
+  "E_114": {
+    "default": 0,
+    "description": "Are you more irritable or has your mood been very unstable recently?",
+    "index": 531,
+    "type": "binary",
+    "short": "Irritable / unstable mood"
+  },
+  "E_82": {
+    "default": 0,
+    "description": "Do you feel lightheaded and dizzy or do you feel like you are about to faint?",
+    "index": 532,
+    "type": "binary",
+    "short": "Lightheaded and duzzy, about to faint"
+  },
+  "E_148": {
+    "default": 0,
+    "description": "Are you feeling nauseous or do you feel like vomiting?",
+    "index": 533,
+    "type": "binary",
+    "short": "Nauseous  / feel like vomiting"
+  },
+  "E_94": {
+    "default": 0,
+    "description": "Have you had chills or shivers?",
+    "index": 534,
+    "type": "binary",
+    "short": "Chills / shivers"
+  },
+  "E_220": {
+    "default": 0,
+    "description": "Do you have pain that is increased when you breathe in deeply?",
+    "index": 535,
+    "type": "binary",
+    "short": "Pain increases when you breathe in deeply"
+  },
+  "E_161": {
+    "default": 0,
+    "description": "Have you recently had a loss of appetite or do you get full more quickly then usually?",
+    "index": 536,
+    "type": "binary",
+    "short": "Loss of appetite /  get full quicker"
+  },
+  "E_179": {
+    "default": 0,
+    "description": "Have you noticed light red blood or blood clots in your stool?",
+    "index": 537,
+    "type": "binary",
+    "short": "Light red blood / blood clots in stool"
+  },
+  "E_162": {
+    "default": 0,
+    "description": "Have you had an involuntary weight loss over the last 3 months?",
+    "index": 538,
+    "type": "binary",
+    "short": "Involuntary weight loss"
+  },
+  "E_173": {
+    "default": 0,
+    "description": "Do you have a burning sensation that starts in your stomach then goes up into your throat, and can be associated with a bitter taste in your mouth?",
+    "index": 539,
+    "type": "binary",
+    "short": "Burning sensation in stomach that goes in your throat + bitter taste in mouth"
+  },
+  "E_33": {
+    "default": 0,
+    "description": "Do you have pain that improves when you lean forward?",
+    "index": 540,
+    "type": "binary",
+    "short": "Pain improves when you lean forward"
+  },
+  "E_218": {
+    "default": 0,
+    "description": "Do you have symptoms that are increased with physical exertion but alleviated with rest?",
+    "index": 541,
+    "type": "binary",
+    "short": "Symphoms increase with physical exertion"
+  },
+  "E_93": {
+    "default": 0,
+    "description": "Do you have numbness, loss of sensation or tingling in the feet?",
+    "index": 542,
+    "type": "binary",
+    "short": "Numbness / loss of sensation / tingling in feet"
+  },
+  "E_66": {
+    "default": 0,
+    "description": "Are you experiencing shortness of breath or difficulty breathing in a significant way?",
+    "index": 543,
+    "type": "binary",
+    "short": "Shortness of breath / other difficulty breathing"
+  },
+  "E_163": {
+    "default": 0,
+    "description": "Have you had any vaginal discharge?",
+    "index": 544,
+    "type": "binary",
+    "short": "Vaginal discharge"
+  },
+  "E_30": {
+    "default": 0,
+    "description": "Do you feel your abdomen is bloated or distended (swollen due to pressure from inside)?",
+    "index": 545,
+    "type": "binary",
+    "short": "Bloated or swollen abdomen"
+  },
+  "E_127": {
+    "default": 0,
+    "description": "Do you feel that your eyes produce excessive tears?",
+    "index": 546,
+    "type": "binary",
+    "short": "Excessive tears"
+  },
+  "E_181": {
+    "default": 0,
+    "description": "Do you have nasal congestion or a clear runny nose?",
+    "index": 547,
+    "type": "binary",
+    "short": "Nasal congestion / clear runny nose"
+  },
+  "E_88": {
+    "default": 0,
+    "description": "Do you feel so tired that you are unable to do your usual activities or are you stuck in your bed all day long?",
+    "index": 548,
+    "type": "binary",
+    "short": "Extremely tired"
+  },
+  "E_43": {
+    "default": 0,
+    "description": "Have you lost consciousness associated with violent and sustained muscle contractions or had an absence episode?",
+    "index": 549,
+    "type": "binary",
+    "short": "Lost consciousness after violent muscle contractions / absence episode"
+  },
+  "E_156": {
+    "default": 0,
+    "description": "Have you had weakness or paralysis on one side of the face, which may still be present or completely resolved?",
+    "index": 550,
+    "type": "binary",
+    "short": "Weakness or paralysis on one side of the face"
+  },
+  "E_144": {
+    "default": 0,
+    "description": "Do you have diffuse (widespread) muscle pain?",
+    "index": 551,
+    "type": "binary",
+    "short": "Widespread muscle pain"
+  },
+  "E_216": {
+    "default": 0,
+    "description": "Do you have pain that is increased with movement?",
+    "index": 552,
+    "type": "binary",
+    "short": "Pain that increases with movement"
+  },
+  "E_201": {
+    "default": 0,
+    "description": "Do you have a cough?",
+    "index": 553,
+    "type": "binary",
+    "short": "Cough"
+  },
+  "E_217": {
+    "default": 0,
+    "description": "Are your symptoms worse when lying down and alleviated while sitting up?",
+    "index": 554,
+    "type": "binary",
+    "short": "Symptoms worse when lying down"
+  },
+  "E_215": {
+    "default": 0,
+    "description": "Do you have symptoms that get worse after eating?",
+    "index": 555,
+    "type": "binary",
+    "short": "Symptoms worsen after eating"
+  },
+  "E_64": {
+    "default": 0,
+    "description": "Do you feel out of breath with minimal physical effort?",
+    "index": 556,
+    "type": "binary",
+    "short": "Out of breath with minimal effort"
+  },
+  "E_96": {
+    "default": 0,
+    "description": "Have you gained weight recently?",
+    "index": 557,
+    "type": "binary",
+    "short": "Gained weight"
+  },
+  "E_16": {
+    "default": 0,
+    "description": "Do you feel anxious?",
+    "index": 558,
+    "type": "binary",
+    "short": "Anxious"
+  },
+  "E_50": {
+    "default": 0,
+    "description": "Have you had significantly increased sweating?",
+    "index": 559,
+    "type": "binary",
+    "short": "Increased sweating"
+  },
+  "E_97": {
+    "default": 0,
+    "description": "Do you have a sore throat?",
+    "index": 560,
+    "type": "binary",
+    "short": "Sore throat"
+  },
+  "E_9": {
+    "default": 0,
+    "description": "Do you have swollen or painful lymph nodes?",
+    "index": 561,
+    "type": "binary",
+    "short": "Swollen / painful lymph nodes"
+  },
+  "E_76": {
+    "default": 0,
+    "description": "Do you feel slightly dizzy or lightheaded?",
+    "index": 562,
+    "type": "binary",
+    "short": "Slightly dizzy / lightheaded"
+  },
+  "E_102": {
+    "default": 0,
+    "description": "Are you consulting because you have high blood pressure?",
+    "index": 563,
+    "type": "binary",
+    "short": "High blood pressure"
+  },
+  "E_65": {
+    "default": 0,
+    "description": "Do you have difficulty swallowing, or have a feeling of discomfort/blockage when swallowing?",
+    "index": 564,
+    "type": "binary",
+    "short": "Difficult / discomfort / blockage when swallowing"
+  },
+  "E_74": {
+    "default": 0,
+    "description": "Have you noticed a diffuse (widespread) redness in one or both eyes?",
+    "index": 565,
+    "type": "binary",
+    "short": "Widespread redness in eyes"
+  },
+  "E_205": {
+    "default": 0,
+    "description": "Do you suddenly have difficulty or an inability to open your mouth or have jaw pain when opening it?",
+    "index": 566,
+    "type": "binary",
+    "short": "Difficulty opening mouth / jaw pain"
+  },
+  "E_63": {
+    "default": 0,
+    "description": "Do you have difficulty articulating words/speaking?",
+    "index": 567,
+    "type": "binary",
+    "short": "Difficulty speaking"
+  },
+  "E_128": {
+    "default": 0,
+    "description": "Have you ever felt like you were suffocating for a very short time associated with inability to breathe or speak?",
+    "index": 568,
+    "type": "binary",
+    "short": "Suffocation associated with inability to breather / speak"
+  },
+  "E_190": {
+    "default": 0,
+    "description": "Have you noticed that you produce more saliva than usual?",
+    "index": 569,
+    "type": "binary",
+    "short": "Produce more saliva than usual"
+  },
+  "E_39": {
+    "default": 0,
+    "description": "Have you felt confused or disorientated lately?",
+    "index": 570,
+    "type": "binary",
+    "short": "Confused / disorientated"
+  },
+  "E_212": {
+    "default": 0,
+    "description": "Have you noticed that the tone of your voice has become deeper, softer or hoarse?",
+    "index": 571,
+    "type": "binary",
+    "short": "Deeper / softer or hoarse voice"
+  },
+  "E_206": {
+    "default": 0,
+    "description": "Do you have painful mouth ulcers or sores?",
+    "index": 572,
+    "type": "binary",
+    "short": "Painful mouth ulcers / sores"
+  },
+  "E_52": {
+    "default": 0,
+    "description": "Do you have the perception of seeing two images of a single object seen overlapping or adjacent to each other (double vision)?",
+    "index": 573,
+    "type": "binary",
+    "short": "Double vision"
+  },
+  "E_203": {
+    "default": 0,
+    "description": "Do you have intense coughing fits?",
+    "index": 574,
+    "type": "binary",
+    "short": "Intense coughing fits"
+  },
+  "E_38": {
+    "default": 0,
+    "description": "Do you have pain or weakness in your jaw?",
+    "index": 575,
+    "type": "binary",
+    "short": "Pain / weakness in jaw"
+  },
+  "E_172": {
+    "default": 0,
+    "description": "Do you have a hard time opening/raising one or both eyelids?",
+    "index": 576,
+    "type": "binary",
+    "short": "Hard time opening eyelids"
+  },
+  "E_84": {
+    "default": 0,
+    "description": "Do you feel weakness in both arms and/or both legs?",
+    "index": 577,
+    "type": "binary",
+    "short": "Weakness in arms or legs"
+  },
+  "E_90": {
+    "default": 0,
+    "description": "Do your symptoms of muscle weakness increase with fatigue and/or stress?",
+    "index": 578,
+    "type": "binary",
+    "short": "Muscle weakness increases with fatigue/stress"
+  },
+  "E_211": {
+    "default": 0,
+    "description": "Have you vomited several times or have you made several efforts to vomit?",
+    "index": 579,
+    "type": "binary",
+    "short": "Vomited / made attempts to vomit"
+  },
+  "E_166": {
+    "default": 0,
+    "description": "Did you vomit after coughing?",
+    "index": 580,
+    "type": "binary",
+    "short": "Vomit after coughing"
+  },
+  "E_112": {
+    "default": 0,
+    "description": "Do you wheeze while inhaling or is your breathing noisy after coughing spells?",
+    "index": 581,
+    "type": "binary",
+    "short": "Wheeze while inhaling / noisy breathing after coughing"
+  },
+  "E_178": {
+    "default": 0,
+    "description": "Have you noticed any unusual bleeding or bruising related to your consultation today?",
+    "index": 582,
+    "type": "binary",
+    "short": "Unusual bleeding / bruising"
+  },
+  "E_152%V_123": {
+    "index": 583,
+    "default_value": 1,
+    "description": "Where is the swelling located? nowhere",
+    "type": "multiple",
+    "short": "No swelling"
+  },
+  "E_152%V_14": {
+    "index": 584,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac wing(R)",
+    "type": "multiple",
+    "short": "Right iliac wing swelling"
+  },
+  "E_152%V_15": {
+    "index": 585,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac wing(L)",
+    "type": "multiple",
+    "short": "Left iliac wing swelling"
+  },
+  "E_152%V_16": {
+    "index": 586,
+    "default_value": 0,
+    "description": "Where is the swelling located? groin(R)",
+    "type": "multiple",
+    "short": "Right groing swelling"
+  },
+  "E_152%V_17": {
+    "index": 587,
+    "default_value": 0,
+    "description": "Where is the swelling located? groin(L)",
+    "type": "multiple",
+    "short": "Left groing swelling"
+  },
+  "E_152%V_19": {
+    "index": 588,
+    "default_value": 0,
+    "description": "Where is the swelling located? axilla(L)",
+    "type": "multiple",
+    "short": "Left axilla swelling"
+  },
+  "E_152%V_18": {
+    "index": 589,
+    "default_value": 0,
+    "description": "Where is the swelling located? axilla(R)",
+    "type": "multiple",
+    "short": "Right axilla swelling"
+  },
+  "E_152%V_20": {
+    "index": 590,
+    "default_value": 0,
+    "description": "Where is the swelling located? tonsil(R)",
+    "type": "multiple",
+    "short": "Right tonsil swelling"
+  },
+  "E_152%V_21": {
+    "index": 591,
+    "default_value": 0,
+    "description": "Where is the swelling located? tonsil(L)",
+    "type": "multiple",
+    "short": "Left tonsil swelling"
+  },
+  "E_152%V_22": {
+    "index": 592,
+    "default_value": 0,
+    "description": "Where is the swelling located? anus",
+    "type": "multiple",
+    "short": "Anus swelling"
+  },
+  "E_152%V_26": {
+    "index": 593,
+    "default_value": 0,
+    "description": "Where is the swelling located? back of the neck",
+    "type": "multiple",
+    "short": "Back of the neck swelling"
+  },
+  "E_152%V_25": {
+    "index": 594,
+    "default_value": 0,
+    "description": "Where is the swelling located? back of head",
+    "type": "multiple",
+    "short": "Back of the head swelling"
+  },
+  "E_152%V_30": {
+    "index": 595,
+    "default_value": 0,
+    "description": "Where is the swelling located? biceps(R)",
+    "type": "multiple",
+    "short": "Right biceps swelling"
+  },
+  "E_152%V_31": {
+    "index": 596,
+    "default_value": 0,
+    "description": "Where is the swelling located? biceps(L)",
+    "type": "multiple",
+    "short": "Left biceps swelling"
+  },
+  "E_152%V_32": {
+    "index": 597,
+    "default_value": 0,
+    "description": "Where is the swelling located? mouth",
+    "type": "multiple",
+    "short": "Mouth swelling"
+  },
+  "E_152%V_33": {
+    "index": 598,
+    "default_value": 0,
+    "description": "Where is the swelling located? thyroid cartilage",
+    "type": "multiple",
+    "short": "Thyroid cartilage swelling"
+  },
+  "E_152%V_34": {
+    "index": 599,
+    "default_value": 0,
+    "description": "Where is the swelling located? ankle(R)",
+    "type": "multiple",
+    "short": "Right ankle swelling"
+  },
+  "E_152%V_35": {
+    "index": 600,
+    "default_value": 0,
+    "description": "Where is the swelling located? ankle(L)",
+    "type": "multiple",
+    "short": "Left ankle swelling"
+  },
+  "E_152%V_36": {
+    "index": 601,
+    "default_value": 0,
+    "description": "Where is the swelling located? clitoris",
+    "type": "multiple",
+    "short": "Clitoris swelling"
+  },
+  "E_152%V_37": {
+    "index": 602,
+    "default_value": 0,
+    "description": "Where is the swelling located? coccyx",
+    "type": "multiple",
+    "short": "Coccyx swelling"
+  },
+  "E_152%V_38": {
+    "index": 603,
+    "default_value": 0,
+    "description": "Where is the swelling located? cervical spine",
+    "type": "multiple",
+    "short": "Cervical spine swelling"
+  },
+  "E_152%V_39": {
+    "index": 604,
+    "default_value": 0,
+    "description": "Where is the swelling located? thoracic spine",
+    "type": "multiple",
+    "short": "Thoracic spine swelling"
+  },
+  "E_152%V_40": {
+    "index": 605,
+    "default_value": 0,
+    "description": "Where is the swelling located? lumbar spine",
+    "type": "multiple",
+    "short": "Lumbar spine swelling"
+  },
+  "E_152%V_41": {
+    "index": 606,
+    "default_value": 0,
+    "description": "Where is the swelling located? commissure(R)",
+    "type": "multiple",
+    "short": "Right commisure swelling"
+  },
+  "E_152%V_42": {
+    "index": 607,
+    "default_value": 0,
+    "description": "Where is the swelling located? commissure(L)",
+    "type": "multiple",
+    "short": "Left commisure swelling"
+  },
+  "E_152%V_49": {
+    "index": 608,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac crest(R)",
+    "type": "multiple",
+    "short": "Right iliac crest swelling"
+  },
+  "E_152%V_50": {
+    "index": 609,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac crest(L)",
+    "type": "multiple",
+    "short": "Left iliac crest swelling"
+  },
+  "E_152%V_51": {
+    "index": 610,
+    "default_value": 0,
+    "description": "Where is the swelling located? thigh(R)",
+    "type": "multiple",
+    "short": "Right thigh swelling"
+  },
+  "E_152%V_52": {
+    "index": 611,
+    "default_value": 0,
+    "description": "Where is the swelling located? thigh(L)",
+    "type": "multiple",
+    "short": "Left thigh swelling"
+  },
+  "E_152%V_57": {
+    "index": 612,
+    "default_value": 0,
+    "description": "Where is the swelling located? lower teeth(R)",
+    "type": "multiple",
+    "short": "Right lower teeth swelling"
+  },
+  "E_152%V_58": {
+    "index": 613,
+    "default_value": 0,
+    "description": "Where is the swelling located? lower teeth(L)",
+    "type": "multiple",
+    "short": "Left lower teeth swelling"
+  },
+  "E_152%V_59": {
+    "index": 614,
+    "default_value": 0,
+    "description": "Where is the swelling located? upper teeth(R)",
+    "type": "multiple",
+    "short": "Right upper teeth swelling"
+  },
+  "E_152%V_60": {
+    "index": 615,
+    "default_value": 0,
+    "description": "Where is the swelling located? upper teeth(L)",
+    "type": "multiple",
+    "short": "Left upper teeth swelling"
+  },
+  "E_152%V_67": {
+    "index": 616,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (index)(R)",
+    "type": "multiple",
+    "short": "Right index finger swelling"
+  },
+  "E_152%V_68": {
+    "index": 617,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (index)(L)",
+    "type": "multiple",
+    "short": "Left index finger swelling"
+  },
+  "E_152%V_69": {
+    "index": 618,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (middle)(R)",
+    "type": "multiple",
+    "short": "Right middle finger swelling"
+  },
+  "E_152%V_70": {
+    "index": 619,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (middle)(L)",
+    "type": "multiple",
+    "short": "Left middle finger swelling"
+  },
+  "E_152%V_63": {
+    "index": 620,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (ring finger)(R)",
+    "type": "multiple",
+    "short": "Right ring finger swelling "
+  },
+  "E_152%V_64": {
+    "index": 621,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (ring finger)(L)",
+    "type": "multiple",
+    "short": "Left ring finger swelling"
+  },
+  "E_152%V_65": {
+    "index": 622,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (little finger)(R)",
+    "type": "multiple",
+    "short": "Right little finger swelling"
+  },
+  "E_152%V_66": {
+    "index": 623,
+    "default_value": 0,
+    "description": "Where is the swelling located? finger (little finger)(L)",
+    "type": "multiple",
+    "short": "Left little finger swelling"
+  },
+  "E_152%V_62": {
+    "index": 624,
+    "default_value": 0,
+    "description": "Where is the swelling located? top of the head",
+    "type": "multiple",
+    "short": "Top of the head swelling"
+  },
+  "E_152%V_194": {
+    "index": 625,
+    "default_value": 0,
+    "description": "Where is the swelling located? shoulder(R)",
+    "type": "multiple",
+    "short": "Right shoulder swelling"
+  },
+  "E_152%V_195": {
+    "index": 626,
+    "default_value": 0,
+    "description": "Where is the swelling located? shoulder(L)",
+    "type": "multiple",
+    "short": "Left shoulder swelling"
+  },
+  "E_152%V_197": {
+    "index": 627,
+    "default_value": 0,
+    "description": "Where is the swelling located? epigastric",
+    "type": "multiple",
+    "short": "Epigastric swelling"
+  },
+  "E_152%V_27": {
+    "index": 628,
+    "default_value": 0,
+    "description": "Where is the swelling located? forearm(R)",
+    "type": "multiple",
+    "short": "Right forearm swelling"
+  },
+  "E_152%V_28": {
+    "index": 629,
+    "default_value": 0,
+    "description": "Where is the swelling located? forearm(L)",
+    "type": "multiple",
+    "short": "Left swelling forearm"
+  },
+  "E_152%V_76": {
+    "index": 630,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the hand(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of right hand swelling"
+  },
+  "E_152%V_77": {
+    "index": 631,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the hand(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of left hand swelling"
+  },
+  "E_152%V_72": {
+    "index": 632,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the foot(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of the right foot swelling"
+  },
+  "E_152%V_73": {
+    "index": 633,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the foot(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of left foot swelling"
+  },
+  "E_152%V_74": {
+    "index": 634,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the wrist(R)",
+    "type": "multiple",
+    "short": "Dorsal aspect of right wrist swelling"
+  },
+  "E_152%V_75": {
+    "index": 635,
+    "default_value": 0,
+    "description": "Where is the swelling located? dorsal aspect of the wrist(L)",
+    "type": "multiple",
+    "short": "Dorsal aspect of left wrist swelling"
+  },
+  "E_152%V_149": {
+    "index": 636,
+    "default_value": 0,
+    "description": "Where is the swelling located? sole(R)",
+    "type": "multiple",
+    "short": "Right sole swelling"
+  },
+  "E_152%V_150": {
+    "index": 637,
+    "default_value": 0,
+    "description": "Where is the swelling located? sole(L)",
+    "type": "multiple",
+    "short": "Left sole swelling"
+  },
+  "E_152%V_80": {
+    "index": 638,
+    "default_value": 0,
+    "description": "Where is the swelling located? palmar face of the wrist(R)",
+    "type": "multiple",
+    "short": "Palmar face of the right wrist swelling"
+  },
+  "E_152%V_81": {
+    "index": 639,
+    "default_value": 0,
+    "description": "Where is the swelling located? palmar face of the wrist(L)",
+    "type": "multiple",
+    "short": "Palmar face of the left wrist swelling"
+  },
+  "E_152%V_43": {
+    "index": 640,
+    "default_value": 0,
+    "description": "Where is the swelling located? lateral side of the foot(R)",
+    "type": "multiple",
+    "short": "Lateral side of the right foot swelling"
+  },
+  "E_152%V_44": {
+    "index": 641,
+    "default_value": 0,
+    "description": "Where is the swelling located? lateral side of the foot(L)",
+    "type": "multiple",
+    "short": "Lateral side of the left foot swelling"
+  },
+  "E_152%V_82": {
+    "index": 642,
+    "default_value": 0,
+    "description": "Where is the swelling located? buttock(R)",
+    "type": "multiple",
+    "short": "Right buttock swelling"
+  },
+  "E_152%V_83": {
+    "index": 643,
+    "default_value": 0,
+    "description": "Where is the swelling located? buttock(L)",
+    "type": "multiple",
+    "short": "Left buttock swelling"
+  },
+  "E_152%V_84": {
+    "index": 644,
+    "default_value": 0,
+    "description": "Where is the swelling located? flank(R)",
+    "type": "multiple",
+    "short": "Right flank swelling"
+  },
+  "E_152%V_85": {
+    "index": 645,
+    "default_value": 0,
+    "description": "Where is the swelling located? flank(L)",
+    "type": "multiple",
+    "short": "Left flank swelling"
+  },
+  "E_152%V_78": {
+    "index": 646,
+    "default_value": 0,
+    "description": "Where is the swelling located? palmar side of the forearm(R)",
+    "type": "multiple",
+    "short": "Palmar side of the right forearm swelling"
+  },
+  "E_152%V_79": {
+    "index": 647,
+    "default_value": 0,
+    "description": "Where is the swelling located? palmar side of the forearm(L)",
+    "type": "multiple",
+    "short": "Palmar side of the left forearm swelling"
+  },
+  "E_152%V_87": {
+    "index": 648,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac fossa(R)",
+    "type": "multiple",
+    "short": "Right iliac fossa swelling"
+  },
+  "E_152%V_88": {
+    "index": 649,
+    "default_value": 0,
+    "description": "Where is the swelling located? iliac fossa(L)",
+    "type": "multiple",
+    "short": "Left iliac fossa swelling"
+  },
+  "E_152%V_89": {
+    "index": 650,
+    "default_value": 0,
+    "description": "Where is the swelling located? forehead",
+    "type": "multiple",
+    "short": "Forehead swelling"
+  },
+  "E_152%V_92": {
+    "index": 651,
+    "default_value": 0,
+    "description": "Where is the swelling located? knee(R)",
+    "type": "multiple",
+    "short": "Right knee swelling"
+  },
+  "E_152%V_93": {
+    "index": 652,
+    "default_value": 0,
+    "description": "Where is the swelling located? knee(L)",
+    "type": "multiple",
+    "short": "Left knee swelling"
+  },
+  "E_152%V_90": {
+    "index": 653,
+    "default_value": 0,
+    "description": "Where is the swelling located? lower gum",
+    "type": "multiple",
+    "short": "Lower gum swelling"
+  },
+  "E_152%V_47": {
+    "index": 654,
+    "default_value": 0,
+    "description": "Where is the swelling located? popliteal fossa(R)",
+    "type": "multiple",
+    "short": "Right popliteal fossa swelling"
+  },
+  "E_152%V_48": {
+    "index": 655,
+    "default_value": 0,
+    "description": "Where is the swelling located? popliteal fossa(L)",
+    "type": "multiple",
+    "short": "Left popliteal fossa swelling"
+  },
+  "E_152%V_91": {
+    "index": 656,
+    "default_value": 0,
+    "description": "Where is the swelling located? upper gum",
+    "type": "multiple",
+    "short": "Upper gum swelling"
+  },
+  "E_152%V_94": {
+    "index": 657,
+    "default_value": 0,
+    "description": "Where is the swelling located? glans",
+    "type": "multiple",
+    "short": "Glans swelling"
+  },
+  "E_152%V_95": {
+    "index": 658,
+    "default_value": 0,
+    "description": "Where is the swelling located? labia majora(R)",
+    "type": "multiple",
+    "short": "Right labia majora swelling"
+  },
+  "E_152%V_96": {
+    "index": 659,
+    "default_value": 0,
+    "description": "Where is the swelling located? labia majora(L)",
+    "type": "multiple",
+    "short": "Left labia majora swelling"
+  },
+  "E_152%V_97": {
+    "index": 660,
+    "default_value": 0,
+    "description": "Where is the swelling located? big toe(R)",
+    "type": "multiple",
+    "short": "Right big toe swelling"
+  },
+  "E_152%V_98": {
+    "index": 661,
+    "default_value": 0,
+    "description": "Where is the swelling located? big toe(L)",
+    "type": "multiple",
+    "short": "Left big toe swelling"
+  },
+  "E_152%V_99": {
+    "index": 662,
+    "default_value": 0,
+    "description": "Where is the swelling located? hip(R)",
+    "type": "multiple",
+    "short": "Right hip swelling"
+  },
+  "E_152%V_100": {
+    "index": 663,
+    "default_value": 0,
+    "description": "Where is the swelling located? hip(L)",
+    "type": "multiple",
+    "short": "Left hip swelling"
+  },
+  "E_152%V_102": {
+    "index": 664,
+    "default_value": 0,
+    "description": "Where is the swelling located? hymen",
+    "type": "multiple",
+    "short": "Hymen swelling"
+  },
+  "E_152%V_103": {
+    "index": 665,
+    "default_value": 0,
+    "description": "Where is the swelling located? hypochondrium(R)",
+    "type": "multiple",
+    "short": "Right hypochondrium swelling"
+  },
+  "E_152%V_104": {
+    "index": 666,
+    "default_value": 0,
+    "description": "Where is the swelling located? hypochondrium(L)",
+    "type": "multiple",
+    "short": "Left hypochondrium swelling"
+  },
+  "E_152%V_105": {
+    "index": 667,
+    "default_value": 0,
+    "description": "Where is the swelling located? ischio jambier(R)",
+    "type": "multiple",
+    "short": "Right ischio jambier swelling"
+  },
+  "E_152%V_106": {
+    "index": 668,
+    "default_value": 0,
+    "description": "Where is the swelling located? ischio jambier(L)",
+    "type": "multiple",
+    "short": "Left ischio jambier swelling"
+  },
+  "E_152%V_108": {
+    "index": 669,
+    "default_value": 0,
+    "description": "Where is the swelling located? cheek(R)",
+    "type": "multiple",
+    "short": "Right cheek swelling"
+  },
+  "E_152%V_109": {
+    "index": 670,
+    "default_value": 0,
+    "description": "Where is the swelling located? cheek(L)",
+    "type": "multiple",
+    "short": "Left cheek swelling"
+  },
+  "E_152%V_110": {
+    "index": 671,
+    "default_value": 0,
+    "description": "Where is the swelling located? internal cheek(R)",
+    "type": "multiple",
+    "short": "Internal right cheek swelling"
+  },
+  "E_152%V_111": {
+    "index": 672,
+    "default_value": 0,
+    "description": "Where is the swelling located? internal cheek(L)",
+    "type": "multiple",
+    "short": "Internal left cheek swelling"
+  },
+  "E_152%V_53": {
+    "index": 673,
+    "default_value": 0,
+    "description": "Where is the swelling located? side of the neck(R)",
+    "type": "multiple",
+    "short": "Right side of the neck swelling"
+  },
+  "E_152%V_54": {
+    "index": 674,
+    "default_value": 0,
+    "description": "Where is the swelling located? side of the neck(L)",
+    "type": "multiple",
+    "short": "Left side of the neck swelling"
+  },
+  "E_152%V_55": {
+    "index": 675,
+    "default_value": 0,
+    "description": "Where is the swelling located? side of the chest(R)",
+    "type": "multiple",
+    "short": "Right side of the chest swelling"
+  },
+  "E_152%V_56": {
+    "index": 676,
+    "default_value": 0,
+    "description": "Where is the swelling located? side of the chest(L)",
+    "type": "multiple",
+    "short": "Left side of the chest swelling"
+  },
+  "E_152%V_116": {
+    "index": 677,
+    "default_value": 0,
+    "description": "Where is the swelling located? bottom lip(R)",
+    "type": "multiple",
+    "short": "Right bottom lip swellingt"
+  },
+  "E_152%V_117": {
+    "index": 678,
+    "default_value": 0,
+    "description": "Where is the swelling located? upper lip(R)",
+    "type": "multiple",
+    "short": "Right upper lip swelling"
+  },
+  "E_152%V_113": {
+    "index": 679,
+    "default_value": 0,
+    "description": "Where is the swelling located? renal fossa(R)",
+    "type": "multiple",
+    "short": "Right renal fossa swelling"
+  },
+  "E_152%V_114": {
+    "index": 680,
+    "default_value": 0,
+    "description": "Where is the swelling located? renal fossa(L)",
+    "type": "multiple",
+    "short": "Left renal fossa swelling"
+  },
+  "E_152%V_115": {
+    "index": 681,
+    "default_value": 0,
+    "description": "Where is the swelling located? uvula",
+    "type": "multiple",
+    "short": "Uvula swelling"
+  },
+  "E_152%V_121": {
+    "index": 682,
+    "default_value": 0,
+    "description": "Where is the swelling located? jaw",
+    "type": "multiple",
+    "short": "Jaw swelling"
+  },
+  "E_152%V_118": {
+    "index": 683,
+    "default_value": 0,
+    "description": "Where is the swelling located? chin",
+    "type": "multiple",
+    "short": "Chin swelling"
+  },
+  "E_152%V_29": {
+    "index": 684,
+    "default_value": 0,
+    "description": "Where is the swelling located? lower chest",
+    "type": "multiple",
+    "short": "Lower chest swelling"
+  },
+  "E_152%V_119": {
+    "index": 685,
+    "default_value": 0,
+    "description": "Where is the swelling located? calf(R)",
+    "type": "multiple",
+    "short": "Right calf swelling"
+  },
+  "E_152%V_120": {
+    "index": 686,
+    "default_value": 0,
+    "description": "Where is the swelling located? calf(L)",
+    "type": "multiple",
+    "short": "Left calf swelling"
+  },
+  "E_152%V_122": {
+    "index": 687,
+    "default_value": 0,
+    "description": "Where is the swelling located? nose",
+    "type": "multiple",
+    "short": "Nose swelling"
+  },
+  "E_152%V_124": {
+    "index": 688,
+    "default_value": 0,
+    "description": "Where is the swelling located? occiput",
+    "type": "multiple",
+    "short": "Occiput swelling"
+  },
+  "E_152%V_125": {
+    "index": 689,
+    "default_value": 0,
+    "description": "Where is the swelling located? eye(R)",
+    "type": "multiple",
+    "short": "Right eye swelling"
+  },
+  "E_152%V_126": {
+    "index": 690,
+    "default_value": 0,
+    "description": "Where is the swelling located? eye(L)",
+    "type": "multiple",
+    "short": "Left eye swelling"
+  },
+  "E_152%V_127": {
+    "index": 691,
+    "default_value": 0,
+    "description": "Where is the swelling located? scapula(R)",
+    "type": "multiple",
+    "short": "Right scapula swelling"
+  },
+  "E_152%V_128": {
+    "index": 692,
+    "default_value": 0,
+    "description": "Where is the swelling located? scapula(L)",
+    "type": "multiple",
+    "short": "Left scapula swelling"
+  },
+  "E_152%V_129": {
+    "index": 693,
+    "default_value": 0,
+    "description": "Where is the swelling located? ear(R)",
+    "type": "multiple",
+    "short": "Right ear swelling"
+  },
+  "E_152%V_130": {
+    "index": 694,
+    "default_value": 0,
+    "description": "Where is the swelling located? ear(L)",
+    "type": "multiple",
+    "short": "Left ear swelling"
+  },
+  "E_152%V_131": {
+    "index": 695,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (1)(R)",
+    "type": "multiple",
+    "short": "First right toe swelling"
+  },
+  "E_152%V_132": {
+    "index": 696,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (1)(L)",
+    "type": "multiple",
+    "short": "First left toe swelling"
+  },
+  "E_152%V_133": {
+    "index": 697,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (2)(R)",
+    "type": "multiple",
+    "short": "Second right toe swelling"
+  },
+  "E_152%V_134": {
+    "index": 698,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (2)(L)",
+    "type": "multiple",
+    "short": "Second left toe swelling"
+  },
+  "E_152%V_135": {
+    "index": 699,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (3)(R)",
+    "type": "multiple",
+    "short": "Third right toe swelling"
+  },
+  "E_152%V_136": {
+    "index": 700,
+    "default_value": 0,
+    "description": "Where is the swelling located? toe (3)(L)",
+    "type": "multiple",
+    "short": "Third left toe swelling"
+  },
+  "E_152%V_144": {
+    "index": 701,
+    "default_value": 0,
+    "description": "Where is the swelling located? little toe (4)(R)",
+    "type": "multiple",
+    "short": "Fourth right toe swelling"
+  },
+  "E_152%V_145": {
+    "index": 702,
+    "default_value": 0,
+    "description": "Where is the swelling located? little toe (4)(L)",
+    "type": "multiple",
+    "short": "Fourth left toe swelling"
+  },
+  "E_152%V_45": {
+    "index": 703,
+    "default_value": 0,
+    "description": "Where is the swelling located? elbow(R)",
+    "type": "multiple",
+    "short": "Right elbow swelling"
+  },
+  "E_152%V_46": {
+    "index": 704,
+    "default_value": 0,
+    "description": "Where is the swelling located? elbow(L)",
+    "type": "multiple",
+    "short": "Left elbow swelling"
+  },
+  "E_152%V_137": {
+    "index": 705,
+    "default_value": 0,
+    "description": "Where is the swelling located? palace",
+    "type": "multiple",
+    "short": "Palace swelling"
+  },
+  "E_152%V_170": {
+    "index": 706,
+    "default_value": 0,
+    "description": "Where is the swelling located? posterior chest wall(R)",
+    "type": "multiple",
+    "short": "Right posterior chest wall swelling"
+  },
+  "E_152%V_171": {
+    "index": 707,
+    "default_value": 0,
+    "description": "Where is the swelling located? posterior chest wall(L)",
+    "type": "multiple",
+    "short": "Left posterior chest wall swelling"
+  },
+  "E_152%V_139": {
+    "index": 708,
+    "default_value": 0,
+    "description": "Where is the swelling located? vaginal wall",
+    "type": "multiple",
+    "short": "Vaginal wall swelling"
+  },
+  "E_152%V_140": {
+    "index": 709,
+    "default_value": 0,
+    "description": "Where is the swelling located? vaginal wall(R)",
+    "type": "multiple",
+    "short": "Right vaginal wall swelling"
+  },
+  "E_152%V_141": {
+    "index": 710,
+    "default_value": 0,
+    "description": "Where is the swelling located? vaginal wall(L)",
+    "type": "multiple",
+    "short": "Left vaginal wall swelling"
+  },
+  "E_152%V_142": {
+    "index": 711,
+    "default_value": 0,
+    "description": "Where is the swelling located? palm(R)",
+    "type": "multiple",
+    "short": "Right palm swelling"
+  },
+  "E_152%V_143": {
+    "index": 712,
+    "default_value": 0,
+    "description": "Where is the swelling located? palm(L)",
+    "type": "multiple",
+    "short": "Left palm swelling"
+  },
+  "E_152%V_155": {
+    "index": 713,
+    "default_value": 0,
+    "description": "Where is the swelling located? penis",
+    "type": "multiple",
+    "short": ""
+  },
+  "E_152%V_187": {
+    "index": 714,
+    "default_value": 0,
+    "description": "Where is the swelling located? belly",
+    "type": "multiple",
+    "short": "Belly swelling"
+  },
+  "E_152%V_146": {
+    "index": 715,
+    "default_value": 0,
+    "description": "Where is the swelling located? labia minora(R)",
+    "type": "multiple",
+    "short": "Right labia minora swelling"
+  },
+  "E_152%V_147": {
+    "index": 716,
+    "default_value": 0,
+    "description": "Where is the swelling located? labia minora(L)",
+    "type": "multiple",
+    "short": "Left labia minora swelling"
+  },
+  "E_152%V_148": {
+    "index": 717,
+    "default_value": 0,
+    "description": "Where is the swelling located? pharynx",
+    "type": "multiple",
+    "short": "Pharynx swelling"
+  },
+  "E_152%V_23": {
+    "index": 718,
+    "default_value": 0,
+    "description": "Where is the swelling located? posterior aspect of the ankle(R)",
+    "type": "multiple",
+    "short": "Posterior aspect of the right ankle swelling"
+  },
+  "E_152%V_24": {
+    "index": 719,
+    "default_value": 0,
+    "description": "Where is the swelling located? posterior aspect of the ankle(L)",
+    "type": "multiple",
+    "short": "Posterior aspect of the left ankle"
+  },
+  "E_152%V_151": {
+    "index": 720,
+    "default_value": 0,
+    "description": "Where is the swelling located? thumb(R)",
+    "type": "multiple",
+    "short": "Right thumb swelling"
+  },
+  "E_152%V_152": {
+    "index": 721,
+    "default_value": 0,
+    "description": "Where is the swelling located? thumb(L)",
+    "type": "multiple",
+    "short": "Left thumb swelling"
+  },
+  "E_152%V_158": {
+    "index": 722,
+    "default_value": 0,
+    "description": "Where is the swelling located? scrotum",
+    "type": "multiple",
+    "short": "Scrotum swelling"
+  },
+  "E_152%V_159": {
+    "index": 723,
+    "default_value": 0,
+    "description": "Where is the swelling located? breast(R)",
+    "type": "multiple",
+    "short": "Right breast swelling"
+  },
+  "E_152%V_160": {
+    "index": 724,
+    "default_value": 0,
+    "description": "Where is the swelling located? breast(L)",
+    "type": "multiple",
+    "short": "Left breast swelling"
+  },
+  "E_152%V_162": {
+    "index": 725,
+    "default_value": 0,
+    "description": "Where is the swelling located? under the tongue",
+    "type": "multiple",
+    "short": "Under the tongue swelling"
+  },
+  "E_152%V_163": {
+    "index": 726,
+    "default_value": 0,
+    "description": "Where is the swelling located? under the jaw",
+    "type": "multiple",
+    "short": "Under the jaw swelling"
+  },
+  "E_152%V_101": {
+    "index": 727,
+    "default_value": 0,
+    "description": "Where is the swelling located? upper chest",
+    "type": "multiple",
+    "short": "Upper chest swelling"
+  },
+  "E_152%V_61": {
+    "index": 728,
+    "default_value": 0,
+    "description": "Where is the swelling located? above the tongue",
+    "type": "multiple",
+    "short": "Above the tongue swelling"
+  },
+  "E_152%V_153": {
+    "index": 729,
+    "default_value": 0,
+    "description": "Where is the swelling located? pubis",
+    "type": "multiple",
+    "short": "Pubis swelling"
+  },
+  "E_152%V_164": {
+    "index": 730,
+    "default_value": 0,
+    "description": "Where is the swelling located? heel(R)",
+    "type": "multiple",
+    "short": "Right heel swelling"
+  },
+  "E_152%V_165": {
+    "index": 731,
+    "default_value": 0,
+    "description": "Where is the swelling located? heel(L)",
+    "type": "multiple",
+    "short": "Left heel swelling"
+  },
+  "E_152%V_166": {
+    "index": 732,
+    "default_value": 0,
+    "description": "Where is the swelling located? temple(R)",
+    "type": "multiple",
+    "short": "Right temple swelling"
+  },
+  "E_152%V_167": {
+    "index": 733,
+    "default_value": 0,
+    "description": "Where is the swelling located? temple(L)",
+    "type": "multiple",
+    "short": "Left temple swelling"
+  },
+  "E_152%V_168": {
+    "index": 734,
+    "default_value": 0,
+    "description": "Where is the swelling located? testicle(R)",
+    "type": "multiple",
+    "short": "Right testicle swelling"
+  },
+  "E_152%V_169": {
+    "index": 735,
+    "default_value": 0,
+    "description": "Where is the swelling located? testicle(L)",
+    "type": "multiple",
+    "short": "Left testicle swelling"
+  },
+  "E_152%V_172": {
+    "index": 736,
+    "default_value": 0,
+    "description": "Where is the swelling located? tibia(R)",
+    "type": "multiple",
+    "short": "Right tibia swelling"
+  },
+  "E_152%V_173": {
+    "index": 737,
+    "default_value": 0,
+    "description": "Where is the swelling located? tibia(L)",
+    "type": "multiple",
+    "short": "Left tibia swelling"
+  },
+  "E_152%V_175": {
+    "index": 738,
+    "default_value": 0,
+    "description": "Where is the swelling located? trapezius(R)",
+    "type": "multiple",
+    "short": "Right trapezius swelling"
+  },
+  "E_152%V_176": {
+    "index": 739,
+    "default_value": 0,
+    "description": "Where is the swelling located? trapezius(L)",
+    "type": "multiple",
+    "short": "Left trapezius swelling"
+  },
+  "E_152%V_174": {
+    "index": 740,
+    "default_value": 0,
+    "description": "Where is the swelling located? trachea",
+    "type": "multiple",
+    "short": "Trachea swelling"
+  },
+  "E_152%V_177": {
+    "index": 741,
+    "default_value": 0,
+    "description": "Where is the swelling located? triceps(R)",
+    "type": "multiple",
+    "short": "Right triceps swelling"
+  },
+  "E_152%V_178": {
+    "index": 742,
+    "default_value": 0,
+    "description": "Where is the swelling located? triceps(L)",
+    "type": "multiple",
+    "short": "Left triceps swelling"
+  },
+  "E_152%V_185": {
+    "index": 743,
+    "default_value": 0,
+    "description": "Where is the swelling located? urethra",
+    "type": "multiple",
+    "short": "Urethra swelling"
+  },
+  "E_152%V_186": {
+    "index": 744,
+    "default_value": 0,
+    "description": "Where is the swelling located? vagina",
+    "type": "multiple",
+    "short": "Vagina swelling"
+  },
+  "E_152%V_188": {
+    "index": 745,
+    "default_value": 0,
+    "description": "Where is the swelling located? vermilion(R)",
+    "type": "multiple",
+    "short": "Right vermillion swelling"
+  },
+  "E_152%V_189": {
+    "index": 746,
+    "default_value": 0,
+    "description": "Where is the swelling located? vermilion(L)",
+    "type": "multiple",
+    "short": "Left vermillion swelling"
+  },
+  "E_152%V_190": {
+    "index": 747,
+    "default_value": 0,
+    "description": "Where is the swelling located? vulval vestibule",
+    "type": "multiple",
+    "short": "Vulval vestibule swelling"
+  },
+  "E_151": {
+    "default": 0,
+    "description": "Do you have swelling in one or more areas of your body?",
+    "index": 748,
+    "type": "binary",
+    "short": "Swelling on multiple areas of the body"
+  },
+  "E_45": {
+    "default": 0,
+    "description": "Have you been coughing up blood?",
+    "index": 749,
+    "type": "binary",
+    "short": "Coughing up blood"
+  },
+  "E_194": {
+    "default": 0,
+    "description": "Have you noticed a high pitched sound when breathing in?",
+    "index": 750,
+    "type": "binary",
+    "short": "High pitches sound when breathing in"
+  },
+  "E_83": {
+    "default": 0,
+    "description": "Have you noticed weakness in your facial muscles and/or eyes?",
+    "index": 751,
+    "type": "binary",
+    "short": "Weakness in facial muscles/eyes"
+  },
+  "E_157": {
+    "default": 0,
+    "description": "Have you recently had numbness, loss of sensation or tingling, in both arms and legs and around your mouth?",
+    "index": 752,
+    "type": "binary",
+    "short": "Numbness/loss of sensation/tingling in arms, legs and around mouth"
+  },
+  "E_176": {
+    "default": 0,
+    "description": "Did you previously, or do you currently, have any weakness/paralysis in one or more of your limbs or in your face?",
+    "index": 753,
+    "type": "binary",
+    "short": "Weakness/paralysis in limbs or face"
+  },
+  "E_42": {
+    "default": 0,
+    "description": "Have you been in contact with or ate something that you have an allergy to?",
+    "index": 754,
+    "type": "binary",
+    "short": "Touched/ate something you are allergic to"
+  },
+  "E_214": {
+    "default": 0,
+    "description": "Have you noticed a wheezing sound when you exhale?",
+    "index": 755,
+    "type": "binary",
+    "short": "Wheezing sound when you exhale"
+  },
+  "E_150": {
+    "default": 0,
+    "description": "Have you been able to pass stools or gas since your symptoms increased?",
+    "index": 756,
+    "type": "binary",
+    "short": "Unable to pass stools/gas"
+  },
+  "E_32": {
+    "default": 0,
+    "description": "Do you have a decrease in appetite?",
+    "index": 757,
+    "type": "binary",
+    "short": "Decrease in appetite"
+  },
+  "E_221": {
+    "default": 0,
+    "description": "Are the symptoms or pain increased with coughing, with an effort like lifting a weight or from forcing a bowel movement?",
+    "index": 758,
+    "type": "binary",
+    "short": "Symptoms increased with coughing/effort/forcing bowel movement"
+  },
+  "E_202": {
+    "default": 0,
+    "description": "Does the person have a whooping cough?",
+    "index": 759,
+    "type": "binary",
+    "short": "Whopping cough"
+  },
+  "E_219": {
+    "default": 0,
+    "description": "Are your symptoms more prominent at night?",
+    "index": 760,
+    "type": "binary",
+    "short": "Symptoms prominent at night"
+  },
+  "E_196": {
+    "default": 0,
+    "description": "Have you had surgery within the last month?",
+    "index": 761,
+    "type": "binary",
+    "short": "Had surgery last month"
+  },
+  "E_170": {
+    "default": 0,
+    "description": "Do you have severe itching in one or both eyes?",
+    "index": 762,
+    "type": "binary",
+    "short": "Severe itching in eyes"
+  },
+  "E_77": {
+    "default": 0,
+    "description": "Do you have a cough that produces colored or more abundant sputum than usual?",
+    "index": 763,
+    "type": "binary",
+    "short": "Cough that produces colored / abundant sputum"
+  },
+  "E_13": {
+    "default": 0,
+    "description": "Do you find that your symptoms have worsened over the last 2 weeks and that progressively less effort is required to cause the symptoms?",
+    "index": 764,
+    "type": "binary",
+    "short": "Symptoms have worsened over the last 2 weeks / less effort is required to cause them"
+  },
+  "E_14": {
+    "default": 0,
+    "description": "Do you have chest pain even at rest?",
+    "index": 765,
+    "type": "binary",
+    "short": "Chest pain even at rest"
+  },
+  "E_169": {
+    "default": 0,
+    "description": "Is your nose or the back of your throat itchy?",
+    "index": 766,
+    "type": "binary",
+    "short": "Nose / back of throat itchy"
+  },
+  "E_177": {
+    "default": 0,
+    "description": "Do you currently, or did you ever, have numbness, loss of sensitivity or tingling anywhere on your body?",
+    "index": 767,
+    "type": "binary",
+    "short": "Numbness, loss of sensitivity / tingling, now or in the past"
+  },
+  "E_175": {
+    "default": 0,
+    "description": "Have you noticed any new fatigue, generalized and vague discomfort, diffuse (widespread) muscle aches or a change in your general well-being related to your consultation today?",
+    "index": 768,
+    "type": "binary",
+    "short": "New fatigue, vague discomfort, widespread muscle aches, or other change today"
+  },
+  "E_174": {
+    "default": 0,
+    "description": "Have you been unintentionally losing weight or have you lost your appetite?",
+    "index": 769,
+    "type": "binary",
+    "short": "Unintentionally losing weight / lost appetite"
+  },
+  "E_145": {
+    "default": 0,
+    "description": "Do you have very abundant or very long menstruation periods?",
+    "index": 770,
+    "type": "binary",
+    "short": "Very abundant or very long menstruation periods"
+  },
+  "E_92": {
+    "default": 0,
+    "description": "Did your cheeks suddenly turn red?",
+    "index": 771,
+    "type": "binary",
+    "short": "Cheeks suddenly turn red"
+  },
+  "E_192": {
+    "default": 0,
+    "description": "Do you feel that muscle spasms or soreness in your neck are keeping you from turning your head to one side?",
+    "index": 772,
+    "type": "binary",
+    "short": "Muscle spasms / soreness in neck prevent you from turning your head to one side"
+  },
+  "E_188": {
+    "default": 0,
+    "description": "Do you have pale stools and dark urine?",
+    "index": 773,
+    "type": "binary",
+    "short": "Pale stools and dark urine"
+  },
+  "E_164": {
+    "default": 0,
+    "description": "Do you feel your heart is beating very irregularly or in a disorganized pattern?",
+    "index": 774,
+    "type": "binary",
+    "short": "Heart beating irregularly / in disorganized pattern"
+  },
+  "E_193": {
+    "default": 0,
+    "description": "Do you have annoying muscle spasms in your face, neck or any other part of your body?",
+    "index": 775,
+    "type": "binary",
+    "short": "Annoying muscle spasms in face/neck/other body part"
+  },
+  "E_168": {
+    "default": 0,
+    "description": "Do you have trouble keeping your tongue in your mouth?",
+    "index": 776,
+    "type": "binary",
+    "short": "Trouble keeping your tongue in your mouth"
+  },
+  "E_180": {
+    "default": 0,
+    "description": "Are you unable to control the direction of your eyes?",
+    "index": 777,
+    "type": "binary",
+    "short": "Unable to control direction of eyes"
+  },
+  "E_67": {
+    "default": 0,
+    "description": "Do you have bouts of choking or shortness of breath that wake you up at night?",
+    "index": 778,
+    "type": "binary",
+    "short": "Bouts of choking or shortness of breath that wake you up at night"
+  },
+  "E_78": {
+    "default": 0,
+    "description": "Do you drink alcohol excessively or do you have an addiction to alcohol?",
+    "index": 779,
+    "type": "binary",
+    "short": "Excessive alcohol drinking / addiction"
+  },
+  "E_146": {
+    "default": 0,
+    "description": "Are you taking any new oral anticoagulants ((NOACs)?",
+    "index": 780,
+    "type": "binary",
+    "short": "Taking new oral anticoagulants (NOACs)"
+  },
+  "E_171": {
+    "default": 0,
+    "description": "Do you feel like you are detached from your own body or your surroundings?",
+    "index": 781,
+    "type": "binary",
+    "short": "Detached from your body / surroundings"
+  },
+  "E_111": {
+    "default": 0,
+    "description": "Do you feel like you are dying or were you afraid that you were about do die?",
+    "index": 782,
+    "type": "binary",
+    "short": "Feel like dying / afraid you are about to die"
+  },
+  "E_182": {
+    "default": 0,
+    "description": "Do you have greenish or yellowish nasal discharge?",
+    "index": 783,
+    "type": "binary",
+    "short": "Greenish/yellowish nasal discharge"
+  },
+  "E_103": {
+    "default": 0,
+    "description": "Have you lost your sense of smell?",
+    "index": 784,
+    "type": "binary",
+    "short": "Lost sense of smell"
+  },
+  "E_23": {
+    "default": 0,
+    "description": "Do you ever temporarily stop breathing while you\u2019re asleep?",
+    "index": 785,
+    "type": "binary",
+    "short": "Temporarily stop breathing while sleeping"
+  },
+  "E_105": {
+    "default": 0,
+    "description": "Have you ever had a heart attack or do you have angina (chest pain)?",
+    "index": 786,
+    "type": "binary",
+    "short": "Ever had a heart attack or having chest pain"
+  },
+  "E_108": {
+    "default": 0,
+    "description": "Do you have a problem with poor circulation?",
+    "index": 787,
+    "type": "binary",
+    "short": "Poor circulation"
+  },
+  "E_104": {
+    "default": 0,
+    "description": "Do you have high blood pressure or do you take medications to treat high blood pressure?",
+    "index": 788,
+    "type": "binary",
+    "short": "High blood pressure / take medications to treat high blood pressure"
+  },
+  "E_79": {
+    "default": 0,
+    "description": "Do you smoke cigarettes?",
+    "index": 789,
+    "type": "binary",
+    "short": "Smoking"
+  },
+  "E_71": {
+    "default": 0,
+    "description": "Do you have high cholesterol or do you take medications to treat high cholesterol?",
+    "index": 790,
+    "type": "binary",
+    "short": "High cholesterol / take medications for it"
+  },
+  "E_41": {
+    "default": 0,
+    "description": "Have you been in contact with a person with similar symptoms in the past 2 weeks?",
+    "index": 791,
+    "type": "binary",
+    "short": "Recently in contact with person with similar symptoms"
+  },
+  "E_100": {
+    "default": 0,
+    "description": "Do you currently take hormones?",
+    "index": 792,
+    "type": "binary",
+    "short": "Take hormones"
+  },
+  "E_69": {
+    "default": 0,
+    "description": "Do you have diabetes?",
+    "index": 793,
+    "type": "binary",
+    "short": "Have diabetes"
+  },
+  "E_167": {
+    "default": 0,
+    "description": "Do you think you are pregnant or are you currently pregnant?",
+    "index": 794,
+    "type": "binary",
+    "short": "Think you are / you are pregnant"
+  },
+  "E_115": {
+    "default": 0,
+    "description": "Have you had unprotected sex with more than one partner in the last 6 months?",
+    "index": 795,
+    "type": "binary",
+    "short": "Unprotected sex in the last 6 months"
+  },
+  "E_70": {
+    "default": 0,
+    "description": "Are you significantly overweight compared to people of the same height as you?",
+    "index": 796,
+    "type": "binary",
+    "short": "Significantly overweight compared to people of the same height"
+  },
+  "E_10": {
+    "default": 0,
+    "description": "Are you currently taking or have you recently taken anti-inflammatory drugs (NSAIDs)?",
+    "index": 797,
+    "type": "binary",
+    "short": "Taking/have taken anti-inflammatory drugs (NSAIDs)"
+  },
+  "E_165": {
+    "default": 0,
+    "description": "Have any of your family members ever had a pneumothorax?",
+    "index": 798,
+    "type": "binary",
+    "short": "Family member had pneumothorax"
+  },
+  "E_8": {
+    "default": 0,
+    "description": "Do you currently undergo dialysis?",
+    "index": 799,
+    "type": "binary",
+    "short": "Currently undergo dialysis"
+  },
+  "E_25": {
+    "default": 0,
+    "description": "Have any of your family members been diagnosed with cluster headaches?",
+    "index": 800,
+    "type": "binary",
+    "short": "Family member diagnosed with cluster headaches"
+  },
+  "E_184": {
+    "default": 0,
+    "description": "Do you take medication that dilates your blood vessels?",
+    "index": 801,
+    "type": "binary",
+    "short": "Take medication that dilates blood vessels"
+  },
+  "E_185": {
+    "default": 0,
+    "description": "Have you ever had a head trauma?",
+    "index": 802,
+    "type": "binary",
+    "short": "Had head trauma"
+  },
+  "E_99": {
+    "default": 0,
+    "description": "Have you ever had a migraine or is a member of your family known to have migraines?",
+    "index": 803,
+    "type": "binary",
+    "short": "You or family member ever had migraines?"
+  },
+  "E_107": {
+    "default": 0,
+    "description": "Have you ever had a stroke?",
+    "index": 804,
+    "type": "binary",
+    "short": "Had a stroke"
+  },
+  "E_226": {
+    "default": 0,
+    "description": "Are you more likely to develop common allergies than the general population?",
+    "index": 805,
+    "type": "binary",
+    "short": "Developed larger amount of common allergies"
+  },
+  "E_62": {
+    "default": 0,
+    "description": "Do you regularly take stimulant drugs?",
+    "index": 806,
+    "type": "binary",
+    "short": "Regularly take stimulant drugs"
+  },
+  "E_49": {
+    "default": 0,
+    "description": "Do you attend or work in a daycare?",
+    "index": 807,
+    "type": "binary",
+    "short": "Attend daycare / work in a daycare"
+  },
+  "E_95": {
+    "default": 0,
+    "description": "Do you have Parkinson\u2019s disease?",
+    "index": 808,
+    "type": "binary",
+    "short": "Have Parkinson's disease"
+  },
+  "E_204": {
+    "values": {
+      "V_10": {
+        "index": 0,
+        "description": "N"
+      },
+      "V_0": {
+        "index": 1,
+        "description": "North Africa"
+      },
+      "V_1": {
+        "index": 2,
+        "description": "West Africa"
+      },
+      "V_2": {
+        "index": 3,
+        "description": "South Africa"
+      },
+      "V_3": {
+        "index": 4,
+        "description": "Central America"
+      },
+      "V_4": {
+        "index": 5,
+        "description": "North America"
+      },
+      "V_5": {
+        "index": 6,
+        "description": "South America"
+      },
+      "V_6": {
+        "index": 7,
+        "description": "Asia"
+      },
+      "V_7": {
+        "index": 8,
+        "description": "South East Asia"
+      },
+      "V_8": {
+        "index": 9,
+        "description": "Caraibes"
+      },
+      "V_9": {
+        "index": 10,
+        "description": "Europe"
+      },
+      "V_13": {
+        "index": 11,
+        "description": "Oceania"
+      }
+    },
+    "default": 0,
+    "description": "Have you traveled out of the country in the last 4 weeks?",
+    "index": 810,
+    "type": "categorical",
+    "short": "Traveled out of the country in the last month"
+  },
+  "E_37": {
+    "default": 0,
+    "description": "Do you have metastatic cancer?",
+    "index": 810,
+    "type": "binary",
+    "short": "Have metastatic cancer"
+  },
+  "E_153": {
+    "default": 0,
+    "description": "Are you being treated for osteoporosis?",
+    "index": 811,
+    "type": "binary",
+    "short": "Treated for osteoporosis"
+  },
+  "E_124": {
+    "default": 0,
+    "description": "Do you have asthma or have you ever had to use a bronchodilator in the past?",
+    "index": 812,
+    "type": "binary",
+    "short": "Have asthma / had to use bronchodilator"
+  },
+  "E_98": {
+    "default": 0,
+    "description": "Do you have a hiatal hernia?",
+    "index": 813,
+    "type": "binary",
+    "short": "Have hiatal hernia"
+  },
+  "E_116": {
+    "default": 0,
+    "description": "Have you had a cold in the last 2 weeks?",
+    "index": 814,
+    "type": "binary",
+    "short": "Had a cold recently"
+  },
+  "E_48": {
+    "default": 0,
+    "description": "Do you live with 4 or more people?",
+    "index": 815,
+    "type": "binary",
+    "short": "Live with 4+ people"
+  },
+  "E_2": {
+    "default": 0,
+    "description": "Are you infected with the human immunodeficiency virus (HIV)?",
+    "index": 816,
+    "type": "binary",
+    "short": "Infected with HIV"
+  },
+  "E_227": {
+    "default": 0,
+    "description": "Are you immunosuppressed?",
+    "index": 817,
+    "type": "binary",
+    "short": "Immunosuppressed"
+  },
+  "E_61": {
+    "default": 0,
+    "description": "Are you currently using intravenous drugs?",
+    "index": 818,
+    "type": "binary",
+    "short": "Using intravenous drugs"
+  },
+  "E_47": {
+    "default": 0,
+    "description": "Do you suffer from Crohn\u2019s disease or ulcerative colitis (UC)?",
+    "index": 819,
+    "type": "binary",
+    "short": "Suffer from Crohn's or ulcerative colitis (UC)?"
+  },
+  "E_27": {
+    "default": 0,
+    "description": "Have you ever had a sexually transmitted infection?",
+    "index": 820,
+    "type": "binary",
+    "short": "Had sexually transmitted infection"
+  },
+  "E_143": {
+    "default": 0,
+    "description": "Do you exercise regularly, 4 times per week or more?",
+    "index": 821,
+    "type": "binary",
+    "short": "Exercise regularly (4+ times/week)"
+  },
+  "E_191": {
+    "default": 0,
+    "description": "Are you a former smoker?",
+    "index": 822,
+    "type": "binary",
+    "short": "Former smoker"
+  },
+  "E_208": {
+    "default": 0,
+    "description": "Is your BMI less than 18.5, or are you underweight?",
+    "index": 823,
+    "type": "binary",
+    "short": "BMI < 18.5 / underweight"
+  },
+  "E_126": {
+    "default": 0,
+    "description": "Do you have liver cirrhosis?",
+    "index": 824,
+    "type": "binary",
+    "short": "Have liver cirrhosis"
+  },
+  "E_189": {
+    "default": 0,
+    "description": "Have you had sexual intercourse with an HIV-positive partner in the past 12 months?",
+    "index": 825,
+    "type": "binary",
+    "short": "Had sexual intercourse with HIV-positive partner in the past 12 months"
+  },
+  "E_7": {
+    "default": 0,
+    "description": "Do you have a poor diet?",
+    "index": 826,
+    "type": "binary",
+    "short": "Have a poor diet"
+  },
+  "E_24": {
+    "default": 0,
+    "description": "Have you ever had a diagnosis of anemia?",
+    "index": 827,
+    "type": "binary",
+    "short": "Diagnosed with anemia"
+  },
+  "E_26": {
+    "default": 0,
+    "description": "Do you have any family members who have been diagnosed with anemia?",
+    "index": 828,
+    "type": "binary",
+    "short": "Family member diagnosed with anemia"
+  },
+  "E_113": {
+    "default": 0,
+    "description": "Do you have chronic kidney failure?",
+    "index": 829,
+    "type": "binary",
+    "short": "Chronic kidney failure"
+  },
+  "E_160": {
+    "default": 0,
+    "description": "Were you born prematurely or did you suffer any complication at birth?",
+    "index": 830,
+    "type": "binary",
+    "short": "Born prematurely / suffer complication at birth"
+  },
+  "E_28": {
+    "default": 0,
+    "description": "Are there any members of your family who have been diagnosed myasthenia gravis?",
+    "index": 831,
+    "type": "binary",
+    "short": "Family member diagnosed with myasthenia gravis"
+  },
+  "E_20": {
+    "default": 0,
+    "description": "Do you have Rheumatoid Arthritis?",
+    "index": 832,
+    "type": "binary",
+    "short": "Have Rheumatoid Arthritis"
+  },
+  "E_80": {
+    "default": 0,
+    "description": "Have you ever been diagnosed with depression?",
+    "index": 833,
+    "type": "binary",
+    "short": "Have been diagnosed with depression"
+  },
+  "E_40": {
+    "default": 0,
+    "description": "Have you been in contact with someone who has had pertussis (whoooping cough)?",
+    "index": 834,
+    "type": "binary",
+    "short": "In contact with someone who had pertussis (whooping cough)"
+  },
+  "E_0": {
+    "default": 0,
+    "description": "Have you recently had a viral infection?",
+    "index": 835,
+    "type": "binary",
+    "short": "Recently had viral infection"
+  },
+  "E_1": {
+    "default": 0,
+    "description": "Are you currently being treated or have you recently been treated with an oral antibiotic for an ear infection?",
+    "index": 836,
+    "type": "binary",
+    "short": "Currently/in the past been treat with oral antibiotic for ear infection"
+  },
+  "E_34": {
+    "default": 0,
+    "description": "Do you have an active cancer?",
+    "index": 837,
+    "type": "binary",
+    "short": "Have an active cancer"
+  },
+  "E_209": {
+    "default": 0,
+    "description": "Are your vaccinations up to date?",
+    "index": 838,
+    "type": "binary",
+    "short": "Up to date on vaccinations"
+  },
+  "E_139": {
+    "default": 0,
+    "description": "Do you have a known heart defect?",
+    "index": 839,
+    "type": "binary",
+    "short": "Have a known heart defect"
+  },
+  "E_19": {
+    "default": 0,
+    "description": "Have you been diagnosed with hyperthyroidism?",
+    "index": 840,
+    "type": "binary",
+    "short": "Diagnosed with hyperthyroidism"
+  },
+  "E_31": {
+    "default": 0,
+    "description": "Do you have severe Chronic Obstructive Pulmonary Disease (COPD)?",
+    "index": 841,
+    "type": "binary",
+    "short": "Have severe Chronic Obstructive Pulmonary Disease (COPD)"
+  },
+  "E_22": {
+    "default": 0,
+    "description": "Do you have a known issue with one of your heart valves?",
+    "index": 842,
+    "type": "binary",
+    "short": "Known issue with heart valves"
+  },
+  "E_60": {
+    "default": 0,
+    "description": "Do you consume energy drinks regularly?",
+    "index": 843,
+    "type": "binary",
+    "short": "Consume energy drinks regularly"
+  },
+  "E_35": {
+    "default": 0,
+    "description": "Do you regularly drink coffee or tea?",
+    "index": 844,
+    "type": "binary",
+    "short": "Regularly drink coffee / tea"
+  },
+  "E_213": {
+    "default": 0,
+    "description": "Have you recently taken decongestants or other substances that may have stimulant effects?",
+    "index": 845,
+    "type": "binary",
+    "short": "Recently taken decongestants or substances that have stimulant effects"
+  },
+  "E_12": {
+    "default": 0,
+    "description": "Do you have a known severe food allergy?",
+    "index": 846,
+    "type": "binary",
+    "short": "Known sever food allergy"
+  },
+  "E_44": {
+    "default": 0,
+    "description": "Do you take corticosteroids?",
+    "index": 847,
+    "type": "binary",
+    "short": "Take corticosteroids"
+  },
+  "E_4": {
+    "default": 0,
+    "description": "Have you or any member of your family ever had croup?",
+    "index": 848,
+    "type": "binary",
+    "short": "You/family member had croup"
+  },
+  "E_81": {
+    "default": 0,
+    "description": "Do you suffer from chronic anxiety?",
+    "index": 849,
+    "type": "binary",
+    "short": "Chronic anxiety"
+  },
+  "E_109": {
+    "default": 0,
+    "description": "Have you ever had deep vein thrombosis (DVT)?",
+    "index": 850,
+    "type": "binary",
+    "short": "Had deep vein thrombosis (DVT)"
+  },
+  "E_110": {
+    "default": 0,
+    "description": "Have you been unable to move or get up for more than 3 consecutive days within the last 4 weeks?",
+    "index": 851,
+    "type": "binary",
+    "short": "Recently unable to move/get up for 3+ consecutive days"
+  },
+  "E_17": {
+    "default": 0,
+    "description": "Are you of Asian descent?",
+    "index": 852,
+    "type": "binary",
+    "short": "Of Asian descent"
+  },
+  "E_18": {
+    "default": 0,
+    "description": "Do you have cystic fibrosis?",
+    "index": 853,
+    "type": "binary",
+    "short": "Cystic fibrosis"
+  },
+  "E_118": {
+    "default": 0,
+    "description": "Have you ever had pneumonia?",
+    "index": 854,
+    "type": "binary",
+    "short": "Had pneumonia"
+  },
+  "E_123": {
+    "default": 0,
+    "description": "Do you have a chronic obstructive pulmonary disease (COPD)?",
+    "index": 855,
+    "type": "binary",
+    "short": "Have a chronic obstructive pulmonary disease (COPD)"
+  },
+  "E_207": {
+    "default": 0,
+    "description": "Do you live in in a big city?",
+    "index": 856,
+    "type": "binary",
+    "short": "Live in a big city"
+  },
+  "E_86": {
+    "default": 0,
+    "description": "Do you have any close family members who suffer from allergies (any type), hay fever or eczema?",
+    "index": 857,
+    "type": "binary",
+    "short": "Close family members who suffer from allergies, hay fever / eczema"
+  },
+  "E_87": {
+    "default": 0,
+    "description": "Do you have any family members who have asthma?",
+    "index": 858,
+    "type": "binary",
+    "short": "Family members who have asthma"
+  },
+  "E_141": {
+    "default": 0,
+    "description": "Did you have your first menstrual period before the age of 12?",
+    "index": 859,
+    "type": "binary",
+    "short": "Had first menstrual period before 12"
+  },
+  "E_11": {
+    "default": 0,
+    "description": "Have you breastfed one of your children for more than 9 months?",
+    "index": 860,
+    "type": "binary",
+    "short": "Breastfed for more than 9 months"
+  },
+  "E_186": {
+    "default": 0,
+    "description": "Have you ever been diagnosed with obstructive sleep apnea (OSA)?",
+    "index": 861,
+    "type": "binary",
+    "short": "Diagnosed with obstructive sleep apnea (OSA)"
+  },
+  "E_106": {
+    "default": 0,
+    "description": "Do you have heart failure?",
+    "index": 862,
+    "type": "binary",
+    "short": "Heart failure"
+  },
+  "E_158": {
+    "default": 0,
+    "description": "Were you diagnosed with endocrine disease or a hormone dysfunction?",
+    "index": 863,
+    "type": "binary",
+    "short": "Diagnosed with endocrine disease / hormone dysfunction"
+  },
+  "E_187": {
+    "default": 0,
+    "description": "Did you eat dark-fleshed fish (such as tuna) or Swiss cheese before the reaction occurred?",
+    "index": 864,
+    "type": "binary",
+    "short": "Ate dark-fleshed fish (tuna) or Swiss cheese recently"
+  },
+  "E_6": {
+    "default": 0,
+    "description": "Do you have chronic pancreatitis?",
+    "index": 865,
+    "type": "binary",
+    "short": "Have chronic pancreatitis"
+  },
+  "E_125": {
+    "default": 0,
+    "description": "Have you ever been diagnosed with gastroesophageal reflux?",
+    "index": 866,
+    "type": "binary",
+    "short": "Diagnosed with gastroesophageal reflux"
+  },
+  "E_21": {
+    "default": 0,
+    "description": "Have you ever had a spontaneous pneumothorax?",
+    "index": 867,
+    "type": "binary",
+    "short": "Had spontaneous pneumothorax"
+  },
+  "E_222": {
+    "default": 0,
+    "description": "Are you exposed to secondhand cigarette smoke on a daily basis?",
+    "index": 868,
+    "type": "binary",
+    "short": "Exposed to secondhand cigarette smoke daily"
+  },
+  "E_15": {
+    "default": 0,
+    "description": "Have you started or taken any antipsychotic medication within the last 7 days?",
+    "index": 869,
+    "type": "binary",
+    "short": "Taken antipsychotic medication recently"
+  },
+  "E_147": {
+    "default": 0,
+    "description": "Have you been treated in hospital recently for nausea, agitation, intoxication or aggressive behavior and received medication via an intravenous or intramuscular route?",
+    "index": 870,
+    "type": "binary",
+    "short": "Recently treated for nausea/agitation/intoxication/aggressive behavior and received intravenous/intramuscular medication"
+  },
+  "E_137": {
+    "default": 0,
+    "description": "Have you ever had surgery to remove lymph nodes?",
+    "index": 871,
+    "type": "binary",
+    "short": "Had surgery to remove lymph nodes"
+  },
+  "E_149": {
+    "default": 0,
+    "description": "Do you take a calcium channel blockers (medication)?",
+    "index": 872,
+    "type": "binary",
+    "short": "Take calcium channel blockers"
+  },
+  "E_197": {
+    "default": 0,
+    "description": "Do you have a known kidney problem resulting in an inability to retain proteins?",
+    "index": 873,
+    "type": "binary",
+    "short": "Have kidney problem resulting in inability to retain proteins"
+  },
+  "E_3": {
+    "default": 0,
+    "description": "Have you ever had a pericarditis?",
+    "index": 874,
+    "type": "binary",
+    "short": "Had pericarditis"
+  },
+  "E_29": {
+    "default": 0,
+    "description": "Do any members of your immediate family have a psychiatric illness?",
+    "index": 875,
+    "type": "binary",
+    "short": "You/family member have psychiatric illness"
+  },
+  "E_225": {
+    "default": 0,
+    "description": "Do you have close family members who had a cardiovascular disease problem before the age of 50?",
+    "index": 876,
+    "type": "binary",
+    "short": "Close family had cardiovascular disease before 50"
+  },
+  "E_73": {
+    "default": 0,
+    "description": "In the last month, have you been in contact with anyone infected with the Ebola virus?",
+    "index": 877,
+    "type": "binary",
+    "short": "Recently been in contact with anyone infected with Ebola"
+  },
+  "E_138": {
+    "default": 0,
+    "description": "Do you suffer from fibromyalgia?",
+    "index": 878,
+    "type": "binary",
+    "short": "Suffer from fibromyalgia"
+  },
+  "E_101": {
+    "default": 0,
+    "description": "Have you been hospitalized for an asthma attack in the past year?",
+    "index": 879,
+    "type": "binary",
+    "short": "Hospitalized for asthma attack this year"
+  },
+  "E_46": {
+    "default": 0,
+    "description": "Have you had 2 or more asthma attacks in the past year?",
+    "index": 880,
+    "type": "binary",
+    "short": "Had 2+ astham attacks in the past year"
+  },
+  "E_119": {
+    "default": 0,
+    "description": "Have you been diagnosed with chronic sinusitis?",
+    "index": 881,
+    "type": "binary",
+    "short": "Diagnosed with chronic sinusitis"
+  },
+  "E_72": {
+    "default": 0,
+    "description": "Have you had one or several flare ups of chronic obstructive pulmonary disease (COPD) in the past year?",
+    "index": 882,
+    "type": "binary",
+    "short": "One+ flare ups of chronics obstructive pulmonary disease (COPD) in the past year"
+  },
+  "E_198": {
+    "default": 0,
+    "description": "Do you work in agriculture?",
+    "index": 883,
+    "type": "binary",
+    "short": "Work in agriculture"
+  },
+  "E_200": {
+    "default": 0,
+    "description": "Do you work in the mining sector?",
+    "index": 884,
+    "type": "binary",
+    "short": "Work in the mining sector"
+  },
+  "E_199": {
+    "default": 0,
+    "description": "Do you work in construction?",
+    "index": 885,
+    "type": "binary",
+    "short": "Work in construction"
+  },
+  "E_121": {
+    "default": 0,
+    "description": "Do you have a deviated nasal septum?",
+    "index": 886,
+    "type": "binary",
+    "short": "Have deviated nasal septum"
+  },
+  "E_120": {
+    "default": 0,
+    "description": "Do you have polyps in your nose?",
+    "index": 887,
+    "type": "binary",
+    "short": "Have polyps in nose"
+  },
+  "E_142": {
+    "default": 0,
+    "description": "Does your mother suffer from asthma?",
+    "index": 888,
+    "type": "binary",
+    "short": "Mother suffers from asthma"
+  },
+  "E_195": {
+    "default": 0,
+    "description": "Do you live in the suburbs?",
+    "index": 889,
+    "type": "binary",
+    "short": "Live in the suburbs"
+  },
+  "E_183": {
+    "default": 0,
+    "description": "Do you live in a rural area?",
+    "index": 890,
+    "type": "binary",
+    "short": "Live in a rural area"
+  },
+  "E_224": {
+    "default": 0,
+    "description": "Do you have family members who have had lung cancer?",
+    "index": 891,
+    "type": "binary",
+    "short": "Family member had lung cancer"
+  },
+  "E_223": {
+    "default": 0,
+    "description": "Are there members of your family who have been diagnosed with pancreatic cancer?",
+    "index": 892,
+    "type": "binary",
+    "short": "Family member diagnosed with pancreatic cancer"
+  },
+  "E_5": {
+    "default": 0,
+    "description": "Have you ever had fluid in your lungs?",
+    "index": 893,
+    "type": "binary",
+    "short": "Had fluid in lungs"
+  }
+}

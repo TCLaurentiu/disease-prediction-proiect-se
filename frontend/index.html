@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "UTF-8">
+        <title>Welcome to Dr. House</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/habibmhamadi/multi-select-tag@2.0.1/dist/css/multi-select-tag.css">
+        <link href="https://fonts.googleapis.com/css?family=Schoolbell&v1" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="disease-card">
+            <div class = "disease-header">Your diagnosis is ready!</div>
+            <div class = "disease-content">
+            <div class = "disease"><span class="tooltip-card">Disease</span> <span>Dr House believes you have </span><span class="disease-name"></span>!</div>
+            <div class = "disease-description"><span class="tooltip-card">Description </span><span class="disease-description-text"></span></span></div>
+            <div class = "recommendations">
+                <div class="recommendations-tooltip">Recommendations - just what the doctor ordered!</div>
+                <div class="recommendations-content">
+                </div>
+            </div>
+            </div>
+        </div>
+        <div class="left">
+            <div class="info">
+                Welcome to Doctor House!
+            </div>
+            <div class="rules">
+                <span>The more symptoms and facts you give Doctor House, the better his diagnosis will be</span>
+                <span>Warning: Dr House is a mad genius. Always consult with your actual doctor before following House's advice</span>
+                <span>Dr House doesn't like to be bored. Describe your symptoms succintly: 10 symptoms or less</span>
+                <span>You may search for "afflicted region" for general issues, "pain" for pain, and "pain radiates" for unfocused pain</span>
+                <span>Picking your symptoms is no easy job! Consider asking for your doctor's assistance</span>
+            </div>
+        </div>
+        <form action="" method="post">
+            <div class="field">
+                <label>Select sympthoms and facts</label>
+                <select name="sympthom" id="sympthom" multiple>
+                </select>
+            </div>    
+            <div class="button">
+                <button type="submit" name="button" value="Add" id="button">Submit
+                </button>
+            </div>
+        </form>
+        <div class="whiteboard" id="whiteboard">
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+                <span class="name"></span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+            <label id="label">
+                <span class="name"></span>
+                <span class="close-button">&times;</span>
+            </label>
+        </div>
+        <div class="popup" id="popup">
+            <div class="popup-header">
+                <div class="title">Select one option</div>
+                <button data-close-button class="close-popup">Ok</button>
+            </div>
+            <div class="popup-body" id="popup-body">
+                <select name="intensity" id="intensity" required></select>
+            </div>
+        </div>
+        <div id="overlay"></div>
+    </body>
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web/dist/ort.min.js"></script>
+    <script src="form.js"></script>
+    <script src="script.js"></script>
+    <script>
+        document.querySelectorAll("option").forEach((e)=>{
+            e.selected = false;
+        })
+            
+    </script>
+</html>

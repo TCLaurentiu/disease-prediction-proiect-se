@@ -1,0 +1,443 @@
+{
+  "0": {
+    "name": "Spontaneous pneumothorax",
+    "description": "A spontaneous pneumothorax occurs when air leaks into the space between the lung and chest wall, causing the lung to collapse without any apparent reason, such as a traumatic injury. It can occur in people with no history of lung disease or in those who have a lung disease.",
+    "recommendations": [
+      "Seek immediate medical attention if you experience sudden chest pain and shortness of breath.",
+      "Avoid activities that significantly change air pressure, such as flying or diving, until cleared by a doctor.",
+      "Follow a healthcare provider's advice on monitoring and potentially preventing future episodes."
+    ]
+  },
+  "1": {
+    "name": "Cluster Headache",
+    "description": "Cluster headaches are extremely painful headaches that occur in cyclical patterns or clusters. They are marked by intense burning or piercing pain around or behind one eye and can cause restlessness.",
+    "recommendations": [
+      "Consult with a healthcare professional for appropriate treatment, which may include oxygen therapy, triptans, or preventive medication.",
+      "Avoid alcohol and smoking, as these can trigger cluster headache attacks.",
+      "Maintain a regular sleep schedule and avoid high altitudes."
+    ]
+  },
+  "2": {
+    "name": "Boerhaave Syndrome",
+    "description": "Boerhaave syndrome is a rare condition involving spontaneous rupture of the esophagus, often after vigorous vomiting. It is a medical emergency that requires prompt treatment.",
+    "recommendations": [
+      "Seek immediate medical care if experiencing symptoms such as severe chest pain, vomiting, and difficulty swallowing after a bout of intense vomiting.",
+      "Early diagnosis and treatment are crucial to prevent complications.",
+      "Avoid activities that can increase the risk of vomiting."
+    ]
+  },
+  "3": {
+    "name": "Spontaneous rib fracture",
+    "description": "Spontaneous rib fractures occur without significant trauma or impact, often due to underlying bone weakness from conditions like osteoporosis or cancer.",
+     "recommendations": [
+      "Consult a healthcare provider for evaluation and treatment.",
+      "Ensure adequate intake of calcium and vitamin D to support bone health.",
+      "Engage in regular, appropriate exercise to strengthen the muscles around the chest and improve bone density."
+     ]
+  },
+  "4": {
+    "name": "GERD (Gastroesophageal Reflux Disease)",
+    "description": "GERD is a chronic condition where stomach acid frequently flows back into the tube connecting the mouth and stomach (esophagus). This backwash (acid reflux) can irritate the lining of the esophagus.",
+    "recommendations": [
+      "Avoid foods and drinks that trigger reflux, such as spicy foods, citrus fruits, chocolate, and caffeine.",
+      "Maintain a healthy weight, eat smaller meals, and don't lie down immediately after eating.",
+      "Elevate the head of the bed and quit smoking."
+    ]
+  },
+  "5": {
+    "name": "HIV (initial infection)",
+    "description": "The initial infection with HIV may present as a flu-like illness within two to four weeks after the virus enters the body. Symptoms can include fever, sore throat, and fatigue.",
+    "recommendations": [
+      "Practice safe sex and use condoms to prevent HIV transmission.",
+      "Consider pre-exposure prophylaxis (PrEP) if you are at high risk of HIV.",
+      "Seek medical care for testing and early treatment if exposed or experiencing symptoms."
+    ]
+  },
+  "6": {
+    "name": "Anemia",
+    "description": "Anemia is a condition characterized by a deficiency of red blood cells or hemoglobin in the blood, leading to fatigue and weakness among other symptoms.",
+    "recommendations": [
+      "Eat a balanced diet rich in iron, vitamin B12, and folate.",
+      "Consider iron supplements if dietary intake is insufficient, but consult a healthcare provider first.",
+      "Regular monitoring and treatment as advised by a healthcare provider."
+    ]
+  },
+  "7": {
+    "name": "Viral pharyngitis",
+    "description": "Viral pharyngitis is inflammation of the throat caused by a viral infection, leading to sore throat, cough, and other symptoms.",
+    "recommendations": [
+      "Rest, stay hydrated, and use over-the-counter pain relievers and throat lozenges to alleviate symptoms.",
+      "Avoid sharing utensils and practice good hygiene to prevent spreading the virus.",
+      "Seek medical attention if symptoms worsen or don't improve in a few days."
+    ]
+  },
+  "8": {
+    "name": "Inguinal hernia",
+    "description": "An inguinal hernia occurs when tissue, such as part of the intestine, protrudes through a weak spot in the abdominal muscles. It may cause a bulge and pain, especially when coughing, bending over, or lifting heavy objects.",
+    "recommendations": [
+      "Avoid heavy lifting and straining.",
+      "Maintain a healthy weight and engage in exercises that strengthen abdominal muscles.",
+      "Surgery is often required to repair the hernia; consult with a healthcare provider for evaluation and treatment options."
+    ]
+  },
+  "9": {
+    "name": "Myasthenia Gravis",
+    "description": "Myasthenia gravis is an autoimmune disorder that causes weakness in the skeletal muscles, which are responsible for breathing and moving parts of the body, including the arms and legs.",
+    "recommendations": [
+      "Follow a treatment plan prescribed by healthcare professionals, which may include medication, therapy, and sometimes surgery.",
+      "Avoid stress and heat exposure as they can exacerbate symptoms.",
+      "Regular monitoring and adjustments to treatment as necessary."
+    ]
+  },
+  "10": {
+    "name": "Whooping cough (Pertussis)",
+    "description": "Whooping cough is a highly contagious respiratory tract infection characterized by severe coughing fits that end in a 'whooping' sound when breathing in. It is caused by the bacterium Bordetella pertussis.",
+    "recommendations": [
+      "Vaccination is the most effective way to prevent whooping cough.",
+      "Practice good hygiene, such as covering your mouth when coughing and washing hands regularly.",
+      "Infants and those with severe symptoms may need hospital care, so it's important to consult a healthcare provider for diagnosis and treatment."
+    ]
+  },
+  "11": {
+    "name": "Anaphylaxis",
+    "description": "Anaphylaxis is a severe, potentially life-threatening allergic reaction that can occur rapidly, affecting the whole body. Common triggers include foods, medications, insect stings, and latex.",
+    "recommendations": [
+      "Carry an epinephrine auto-injector (if prescribed) at all times and know how to use it.",
+      "Wear a medical alert bracelet or necklace stating your allergies.",
+      "Avoid known allergens and inform healthcare providers of any allergies before treatments."
+    ]
+  },
+  "12": {
+    "name": "Epiglottitis",
+    "description": "Epiglottitis is a potentially life-threatening condition characterized by inflammation and swelling of the epiglottis, which can block airflow to the lungs. It's caused by bacterial infection or other factors.",
+    "recommendations": [
+      "Seek immediate medical attention if you experience symptoms such as severe sore throat, difficulty breathing, or drooling.",
+      "Vaccination against Haemophilus influenzae type b (Hib) can prevent many cases.",
+      "Avoid smoking, as it can increase the risk of epiglottitis."
+    ]
+  },
+  "13": {
+    "name": "Guillain-Barre Syndrome",
+    "description": "Guillain-Barré syndrome (GBS) is a rare disorder in which the body's immune system attacks the nerves, leading to muscle weakness and, in severe cases, paralysis. The exact cause of GBS is unknown, but it often follows an infection.",
+    "recommendations": [
+      "Hospitalization is usually required to monitor respiratory function and provide treatment, such as immunoglobulin therapy or plasmapheresis.",
+      "Physical therapy can help regain strength and mobility during recovery.",
+      "Supportive care, including pain management and psychological support, is important."
+    ]
+  },
+  "14": {
+    "name": "Acute laryngitis",
+    "description": "Acute laryngitis is the inflammation of the larynx (voice box) leading to voice loss or hoarseness, often caused by a viral infection or overuse of the voice.",
+    "recommendations": [
+      "Rest your voice as much as possible.",
+      "Stay hydrated and use a humidifier to soothe the throat.",
+      "Avoid irritants such as cigarette smoke. If symptoms persist beyond two weeks, seek medical advice."
+    ]
+  },
+  "15": {
+    "name": "Croup",
+    "description": "Croup is a viral infection that affects the larynx, trachea, and bronchi, causing a distinctive barking cough, stridor, and difficulty breathing, primarily in children.",
+    "recommendations": [
+      "Use a cool-mist humidifier in the child's room.",
+      "Seek medical attention if the child has difficulty breathing, shows signs of dehydration, or their symptoms worsen.",
+      "Comfort and calm the child, as crying can worsen symptoms."
+    ]
+  },
+  "16": {
+    "name": "PSVT (Paroxysmal Supraventricular Tachycardia)",
+    "description": "PSVT is a rapid heart rate that starts in the heart's upper chambers. It can cause palpitations, dizziness, or shortness of breath but is usually not life-threatening.",
+    "recommendations": [
+      "Practice vagal maneuvers, as instructed by a healthcare professional, to slow the heart rate during an episode.",
+      "Avoid triggers such as caffeine and alcohol.",
+      "Medications or catheter ablation may be recommended for recurrent cases."
+    ]
+  },
+  "17": {
+    "name": "Atrial Fibrillation",
+    "description": "Atrial fibrillation is an irregular and often very rapid heart rhythm (arrhythmia) that can lead to blood clots in the heart, increasing the risk of stroke, heart failure, and other heart-related complications.",
+    "recommendations": [
+      "Follow a heart-healthy lifestyle, including a balanced diet, regular exercise, and avoiding excessive alcohol.",
+      "Medications may be prescribed to control the heart rate, prevent clots, or manage symptoms.",
+      "Procedures like cardioversion or ablation may be necessary for some cases,"
+    ]
+  },
+  "18": {
+    "name": "Bronchiecstasis",
+    "description": "Bronchiectasis is a condition where the bronchial tubes in the lungs are permanently widened, damaged, and thickened, leading to a buildup of mucus that can make the lungs more vulnerable to infection.",
+    "recommendations": [
+      "Practice good airway clearance techniques to help remove mucus.",
+      "Stay up to date with vaccinations to prevent lung infections.",
+      "Antibiotics may be needed to treat or prevent infection, and pulmonary rehabilitation can improve quality of life."
+    ]
+  },
+  "19": {
+    "name": "Allergic Sinusitis",
+    "description": "Allergic sinusitis is an inflammation of the sinus linings due to an allergic reaction, leading to symptoms such as nasal congestion, runny nose, and sneezing.",
+    "recommendations": [
+      "Avoid known allergens and reduce exposure to triggers such as dust mites, pet dander, and pollen.",
+      "Use saline nasal sprays and consider using a dehumidifier to keep air moist.",
+      "Medications like antihistamines, nasal corticosteroids, or immunotherapy may be recommended."
+    ]
+  },
+  "20": {
+    "name": "Chagas disease",
+    "description": "Chagas disease is caused by the Trypanosoma cruzi parasite, transmitted by infected triatomine bugs. It can cause chronic symptoms, including digestive and cardiac alterations, years after the initial infection.",
+    "recommendations": [
+      "Avoid contact with triatomine bugs, especially in endemic areas, by using insect repellent and secure housing methods.",
+      "Seek treatment with antiparasitic medications during the acute phase to reduce the risk of chronic complications.",
+      "Regular monitoring for heart and digestive complications is necessary for chronic cases."
+    ]
+  },
+  "21": {
+    "name": "Scombroid food poisoning",
+    "description": "Scombroid poisoning is caused by eating fish that has not been properly refrigerated or preserved, leading to the formation of high levels of histamine. Symptoms include rash, diarrhea, flushing, and headache.",
+    "recommendations": [
+      "Seek immediate medical treatment for antihistamines to relieve symptoms.",
+      "Prevent it by ensuring fish is fresh and properly refrigerated.",
+      "Avoid fish that smells overly fishy or looks spoiled."
+    ]
+  },
+  "22": {
+    "name": "Myocarditis",
+    "description": "Myocarditis is inflammation of the heart muscle, often caused by a viral infection. Symptoms may include chest pain, fatigue, shortness of breath, and irregular heartbeats.",
+    "recommendations": [
+      "Rest and avoid strenuous activities until cleared by a healthcare professional.",
+      "Treatment focuses on the underlying cause and may include medications to manage symptoms.",
+      "Monitor for symptoms of heart failure and seek regular follow-up care."
+    ]
+  },
+  "23": {
+    "name": "Larygospam",
+    "description": "Laryngospasm is a sudden, temporary tightening of the vocal cords, which blocks airflow into the lungs. It can cause a feeling of choking or inability to breathe.",
+    "recommendations": [
+      "Try to stay calm and breathe slowly through the nose or through pursed lips.",
+      "Seek medical attention if episodes are frequent or severe.",
+      "Treatment focuses on identifying and managing triggers, such as GERD or allergies"
+    ]
+  },
+  "24": {
+    "name": "Acute Dystonic Reactions",
+    "description": "Acute dystonic reactions are sudden contractions of muscles, often caused by a reaction to certain medications. Symptoms can include abnormal postures, muscle spasms, and difficulty speaking.",
+    "recommendations": [
+      "Discontinue the offending medication under medical supervision.",
+      "Anticholinergic drugs may be used to relieve symptoms.",
+      "Inform healthcare providers about any previous dystonic reactions to medications."
+    ]
+  },
+  "25": {
+    "name": "Localized edema",
+    "description": "Localized edema is swelling confined to a specific area of the body, often caused by injury, infection, or inflammation.",
+    "recommendations": [
+      "Elevate the affected area to reduce swelling.",
+      "Apply cold or warm compresses as recommended by a healthcare professional.",
+      "Seek medical attention if edema is accompanied by pain, redness, or heat, which could indicate an underlying condition."
+    ]
+  },
+  "26": {
+    "name": "SLE (Systemic Lupus Erythematosus)",
+    "description": "SLE is a chronic autoimmune disease that can affect the skin, joints, kidneys, brain, and other organs, characterized by periods of flare-ups and remission.",
+    "recommendations": [
+      "Follow a treatment plan that may include anti-inflammatory, immunosuppressive, and antimalarial medications.",
+      "Protect the skin from sunlight with sunscreen and clothing.",
+      "Regular follow-up with healthcare providers to monitor the disease and adjust treatments"
+    ]
+  },
+  "27": {
+    "name": "Tuberculosis (TB)",
+    "description": "TB is a bacterial infection that primarily affects the lungs but can spread to other organs. Symptoms include a persistent cough, fever, night sweats, and weight loss.",
+    "recommendations": [
+      "Follow a long-term antibiotic regimen as prescribed by a healthcare provider.",
+      "Isolate from others during the initial phase of treatment to prevent spreading the disease.",
+      "Regular monitoring and follow-up are essential to ensure the treatment's effectiveness."
+    ]
+  },
+  "28": {
+    "name": "Unstable Angina",
+    "description": "Unstable angina is a condition where chest pain occurs unpredictably and with increasing severity or frequency, indicating that the heart is not getting enough blood. It's a medical emergency as it can precede a heart attack.",
+    "recommendations": [
+      "Seek immediate medical attention if experiencing chest pain, especially if it's new, unexpected, or worsens.",
+      "Treatment may include medications to improve blood flow and prevent clots, along with lifestyle changes.",
+      "Monitor for signs of a heart attack and maintain follow-up with a healthcare provider."
+    ]
+  },
+  "29": {
+    "name": "Stable Angina",
+    "description": "Stable angina is chest pain or discomfort that occurs with exertion or stress and follows a predictable pattern. It's caused by temporary reduced blood flow to the heart.",
+    "recommendations": [
+      "Rest or take prescribed angina medication (like nitroglycerin) when pain occurs.",
+      "Adopt lifestyle changes to manage risk factors, including a healthy diet, regular exercise, and smoking cessation.",
+      "Follow-up with a healthcare provider to monitor the condition and adjust treatment as necessary."
+    ]
+  },
+  "30": {
+    "name": "Ebola",
+    "description": "Ebola virus disease is a severe, often fatal illness in humans caused by the Ebola virus. Symptoms include fever, severe headache, muscle pain, and hemorrhaging.",
+    "recommendations": [
+      "Ebola requires immediate isolation and treatment in specialized facilities to manage symptoms and prevent spread.",
+      "Follow strict infection control measures if in an outbreak area.",
+      "There's no proven cure, but supportive care and some experimental treatments can improve survival rates."
+    ]
+  },
+  "31": {
+    "name": "Acute otitis media",
+    "description": "Acute otitis media is an infection of the middle ear, common in children. Symptoms include ear pain, fever, and irritability.",
+    "recommendations": [
+      "Pain relief with over-the-counter pain relievers and warm compresses.",
+      "Antibiotics may be prescribed if the infection is bacterial and severe.",
+      "Follow-up with a healthcare provider to ensure the infection has resolved."
+    ]
+  },
+  "32": {
+    "name": "Panic attack",
+    "description": "Panic attacks involve sudden episodes of intense fear that trigger severe physical reactions when there is no real danger or apparent cause. Symptoms can include heart palpitations, sweating, and feelings of choking.",
+    "recommendations": [
+      "Practice relaxation techniques such as deep breathing or meditation.",
+      "Cognitive-behavioral therapy (CBT) can be effective in managing symptoms.",
+      "Consult a healthcare provider for a treatment plan that may include therapy, medication, or both."
+    ]
+  },
+  "33": {
+    "name": "Bronchospasm / Acute Asthma Exacerbation",
+    "description": "Bronchospasm is a sudden constriction of the muscles in the walls of the bronchioles. It's often associated with asthma and can lead to difficulty breathing, wheezing, and coughing.",
+    "recommendations": [
+      "Use a prescribed inhaler (bronchodilator) to quickly relieve symptoms.",
+      "Avoid triggers such as allergens, cold air, and exercise without proper management.",
+      "Follow an asthma action plan and seek medical attention for severe exacerbations."
+    ]
+  },
+  "34": {
+    "name": "Bronchitis",
+    "description": "Bronchitis is inflammation of the bronchial tubes, which carry air to and from the lungs. Symptoms include coughing up mucus, wheezing, shortness of breath, and fatigue.",
+    "recommendations": [
+      "Rest, stay hydrated, and use a humidifier.",
+      "Avoid smoking and other lung irritants.",
+      "Antibiotics are not usually recommended unless the bronchitis is caused by a bacterial infection."
+    ]
+  },
+  "35": {
+    "name": "Acute COPD Exacerbation / Infection",
+    "description": "Acute exacerbations of chronic obstructive pulmonary disease (COPD) are episodes where symptoms become significantly worse and may be triggered by an infection or other factors.",
+    "recommendations": [
+      "Increase use of bronchodilators as directed by a healthcare provider.",
+      "Antibiotics or corticosteroids may be prescribed if an infection is suspected or to reduce inflammation.",
+      "Seek medical attention for severe exacerbations; oxygen therapy or hospitalization may be necessary."
+    ]
+  },
+  "36": {
+    "name": "Pulmonary Embolism",
+    "description": "A pulmonary embolism is a blockage in one of the pulmonary arteries in the lungs, usually caused by blood clots that travel to the lungs from the legs or other parts of the body. Symptoms include shortness of breath, chest pain, and cough.",
+    "recommendations": [
+      "Seek immediate medical attention for symptoms of a pulmonary embolism.",
+      "Treatment often involves anticoagulants to prevent further clots and thrombolytics in severe cases.",
+      "Preventive measures include staying active, avoiding prolonged immobility, and using compression stockings if at risk."
+    ]
+  },
+  "37": {
+    "name": "URTI (Upper Respiratory Tract Infection)",
+    "description": "URTIs are infections that affect the upper respiratory tract, including the nose, throat, and sinuses. Common symptoms include cough, sore throat, nasal congestion, and sneezing.",
+    "recommendations": [
+      "Rest, stay hydrated, and use over-the-counter remedies to relieve symptoms.",
+      "Practice good hygiene, like washing hands frequently and covering coughs and sneezes, to prevent spread.",
+      "Seek medical attention if symptoms are severe or persist beyond a typical duration for a cold."
+    ]
+  },
+  "38": {
+    "name": "Influenza",
+    "description": "Influenza, or flu, is a viral infection that attacks the respiratory system. Symptoms include fever, chills, muscle aches, cough, and fatigue.",
+    "recommendations": [
+      "Annual flu vaccination is the best protection.",
+      "Rest, stay hydrated, and use antiviral medications if prescribed early in the course of the illness.",
+      "Avoid close contact with others to prevent spreading the virus."
+    ]
+  },
+  "39": {
+    "name": "Pneumonia",
+    "description": "Pneumonia is an infection that inflames the air sacs in one or both lungs, which may fill with fluid. Symptoms include cough with phlegm or pus, fever, chills, and difficulty breathing.",
+    "recommendations": [
+      "Antibiotics for bacterial pneumonia, and rest and fluids for viral pneumonia.",
+      "Vaccinations can prevent some types of pneumonia.",
+      "Seek medical attention for severe symptoms or if at high risk for complications."
+    ]
+  },
+  "40": {
+    "name": "Acute rhinosinusitis",
+    "description": "Acute rhinosinusitis is inflammation of the sinuses and nasal passages that can cause congestion, facial pain or pressure, nasal discharge, and reduced sense of smell and taste.",
+    "recommendations": [
+      "Use saline nasal sprays and decongestants to relieve congestion.",
+      "Pain relievers can help manage discomfort.",
+      "Most cases resolve without antibiotics, but seek medical advice if symptoms persist or worsen."
+    ]
+  },
+  "41": {
+    "name": "Chronic rhinosinusitis",
+    "description": "Chronic rhinosinusitis is a condition characterized by prolonged inflammation of the sinuses and nasal passages, leading to congestion, drainage, and facial pain or pressure that lasts for 12 weeks or more.",
+    "recommendations": [
+      "Nasal corticosteroid sprays and saline irrigation can help manage symptoms.",
+      "Avoiding known allergens and irritants may prevent exacerbations.",
+      "Surgery may be necessary for cases that don't respond to medical therapy."
+    ]
+  },
+  "42": {
+    "name": "Bronchiolitis",
+    "description": "Bronchiolitis is a common lung infection in infants and young children, caused by a viral infection that leads to swelling and mucus buildup in the smallest air passages in the lungs.",
+    "recommendations": [
+     "Keep the child hydrated and use a humidifier to ease breathing.",
+     "Monitor for signs of difficulty breathing and dehydration.",
+     "Most cases can be managed at home, but severe cases may require hospitalization." 
+    ]
+  },
+  "43": {
+    "name": "Pulmonary neoplasm",
+    "description": "Pulmonary neoplasms are tumors that form in the lung tissue. These can be benign or malignant (lung cancer). Symptoms may include a persistent cough, weight loss, shortness of breath, and chest pain.",
+    "recommendations": [
+      "Seek a thorough evaluation by a healthcare provider for diagnosis.",
+      "Treatment options vary widely and may include surgery, radiation therapy, chemotherapy, or targeted therapy, depending on the type and stage of the tumor.",
+      "Smoking cessation is critical to reduce the risk of developing lung cancer."
+    ]
+  },
+  "44": {
+    "name": "Possible NSTEMI/STEMI - NSTEMI (Non-ST-Elevation Myocardial Infarction) and STEMI (ST-Elevation Myocardial Infarction)",
+    "description": "NSTEMI (Non-ST-Elevation Myocardial Infarction) and STEMI (ST-Elevation Myocardial Infarction) are types of heart attacks that are differentiated by changes seen on an EKG and involve damage to the heart muscle.",
+    "recommendations": [
+      "Immediate medical attention is crucial for chest pain or symptoms of a heart attack.",
+      "Treatment may involve medication, percutaneous coronary intervention (PCI), or surgery.",
+      "Lifestyle changes and medication are important for recovery and prevention of future events."
+    ]
+  },
+  "45": {
+    "name": "Sarcoidosis",
+    "description": "Sarcoidosis is an inflammatory disease that affects multiple organs in the body, primarily the lungs and lymph glands. It is characterized by the formation of granulomas, small areas of inflammation.",
+    "recommendations": [
+      "Monitor and manage symptoms with anti-inflammatory medications as prescribed.",
+      "Regular follow-up care to assess organ function and adjust treatment.",
+      "Lifestyle adjustments, including healthy diet and quitting smoking, can help manage the condition"
+    ]
+  },
+  "46": {
+    "name": "Pancreatic Neoplasm",
+    "description": "Pancreatic neoplasms are tumors of the pancreas. They can be benign or malignant, with pancreatic cancer being among the most serious and aggressive forms.",
+    "recommendations": [
+      "Early detection and treatment are crucial due to the aggressive nature of pancreatic cancer.",
+      "Treatment may include surgery, chemotherapy, and radiation therapy.",
+      "Supportive care for symptoms and nutritional support is also important."
+    ]
+  },
+  "47": {
+    "name": "Acute Pulmonary Edema",
+    "description": "Acute pulmonary edema is a condition where fluid suddenly fills the lungs, making breathing difficult. It is often a result of heart failure but can be caused by other conditions.",
+    "recommendations": [
+      "Immediate medical attention is required to treat the underlying cause and manage symptoms.",
+      "Treatment may include oxygen, diuretics to remove excess fluid, and medications to improve heart function.",
+      "Monitor for symptoms and maintain regular follow-ups with a healthcare provider."
+    ]
+  },
+  "48": {
+    "name": "Pericarditis",
+    "description": "Pericarditis is inflammation of the pericardium, the sac that surrounds the heart. Symptoms can include sharp chest pain, fever, and palpitations.",
+    "recommendations": [
+      "Treatment often involves anti-inflammatory drugs to reduce symptoms.",
+      "Rest and avoid strenuous activity until symptoms improve.",
+      "Monitor for signs of complications, such as pericardial effusion, and maintain follow-up care with a healthcare provider."
+    ]
+  }
+}
